@@ -1,0 +1,74 @@
+services:
+  php:
+    build: ./docker/php
+    container_name: chat-app-php
+    volumes:
+      - ./backend:/var/www/html
+    networks:
+      - chat-network
+
+  web:
+    image: nginx:alpine
+    ports:
+      - "8080:80"
+    volumes:
+      - ./backend:/var/www/html
+      - ./docker/nginx/default.conf:/etc/nginx/conf.d/default.conf
+    depends_on:
+      - php
+    networks:
+      - chat-network
+
+  mysql:
+    image: mysql:8.0
+    container_name: chat-app-mysql
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: chat
+      MYSQL_USER: chatuser
+      MYSQL_PASSWORD: chatpass
+    ports:
+      - "3307:3306"  # Mudar para 3307 ou outra porta disponível
+    volumes:
+      - mysql-data:/var/lib/mysql
+    networks:
+      - chat-network
+
+  redis:
+    image: redis:alpine
+    container_name: chat-app-redis
+    ports:
+      - "6379:6379"
+    networks:
+      - chat-network
+
+  rabbitmq:
+    image: rabbitmq:3-management
+    container_name: chat-app-rabbitmq
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+    networks:
+      - chat-network
+      
+  websocket:
+    build: ./docker/php
+    container_name: chat-app-websocket
+    command: php /var/www/html/ws/server.php
+    ports:
+      - "8081:8081"
+    volumes:
+      - ./backend:/var/www/html
+    networks:
+      - chat-network
+    depends_on:
+      - redis
+      - rabbitmq
+
+networks:
+  chat-network:
+    driver: bridge
+
+volumes:
+  mysql-data:

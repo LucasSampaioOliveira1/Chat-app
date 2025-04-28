@@ -1,0 +1,257 @@
+[27-Apr-2025 17:09:58 UTC] Requisição: POST /api/register
+[27-Apr-2025 17:09:58 UTC] Dados de registro: {"name":"Lucas","email":"lucas.sampaio1901@outlook.com","password":"123"}
+[27-Apr-2025 17:09:58 UTC] Dados de registro recebidos: {"name":"Lucas","email":"lucas.sampaio1901@outlook.com","password":"123"}
+[27-Apr-2025 17:10:05 UTC] Requisição: POST /api/login
+[27-Apr-2025 17:10:05 UTC] Dados de login recebidos: {"email":"lucas.sampaio1901@outlook.com","password":"123"}
+[27-Apr-2025 17:10:14 UTC] Requisição: POST /api/login
+[27-Apr-2025 17:10:14 UTC] Dados de login recebidos: {"email":"lucas.sampaio1901@outlook.com","password":"123"}
+[27-Apr-2025 17:11:34 UTC] Requisição: POST /api/login
+[27-Apr-2025 17:11:34 UTC] Dados de login recebidos: {"email":"lucas.sampaio1901@outlook.com","password":"123"}
+[27-Apr-2025 17:16:46 UTC] Requisição: POST /api/register
+[27-Apr-2025 17:16:46 UTC] Dados de registro: {"name":"Lucas","email":"lucas.sampaio1901@outlook.com","password":"123"}
+[27-Apr-2025 17:16:46 UTC] Dados de registro recebidos: {"name":"Lucas","email":"lucas.sampaio1901@outlook.com","password":"123"}
+[27-Apr-2025 17:16:50 UTC] Requisição: POST /api/login
+[27-Apr-2025 17:16:50 UTC] Dados de login recebidos: {"email":"lucas.sampaio1901@outlook.com","password":"123"}
+[27-Apr-2025 17:16:50 UTC] Requisição: GET /api/messages
+[27-Apr-2025 17:16:50 UTC] PHP Fatal error:  Uncaught Error: Class "Redis" not found in /var/www/html/app/Services/RedisService.php:12
+Stack trace:
+#0 /var/www/html/app/Controllers/MessageController.php(17): App\Services\RedisService->__construct()
+#1 /var/www/html/public/index.php(60): App\Controllers\MessageController->__construct()
+#2 {main}
+  thrown in /var/www/html/app/Services/RedisService.php on line 12
+[27-Apr-2025 17:17:20 UTC] Requisição: POST /api/messages
+[27-Apr-2025 17:17:20 UTC] PHP Fatal error:  Uncaught Error: Class "Redis" not found in /var/www/html/app/Services/RedisService.php:12
+Stack trace:
+#0 /var/www/html/app/Controllers/MessageController.php(17): App\Services\RedisService->__construct()
+#1 /var/www/html/public/index.php(65): App\Controllers\MessageController->__construct()
+#2 {main}
+  thrown in /var/www/html/app/Services/RedisService.php on line 12
+[27-Apr-2025 17:17:38 UTC] Requisição: POST /api/messages
+[27-Apr-2025 17:17:38 UTC] PHP Fatal error:  Uncaught Error: Class "Redis" not found in /var/www/html/app/Services/RedisService.php:12
+Stack trace:
+#0 /var/www/html/app/Controllers/MessageController.php(17): App\Services\RedisService->__construct()
+#1 /var/www/html/public/index.php(65): App\Controllers\MessageController->__construct()
+#2 {main}
+  thrown in /var/www/html/app/Services/RedisService.php on line 12
+[27-Apr-2025 17:17:43 UTC] Requisição: POST /api/logout
+[27-Apr-2025 17:17:46 UTC] Requisição: POST /api/login
+[27-Apr-2025 17:17:46 UTC] Dados de login recebidos: {"email":"lucas.sampaio1901@outlook.com","password":"123"}
+[27-Apr-2025 17:17:46 UTC] Requisição: GET /api/messages
+[27-Apr-2025 17:17:46 UTC] PHP Fatal error:  Uncaught Error: Class "Redis" not found in /var/www/html/app/Services/RedisService.php:12
+Stack trace:
+#0 /var/www/html/app/Controllers/MessageController.php(17): App\Services\RedisService->__construct()
+#1 /var/www/html/public/index.php(60): App\Controllers\MessageController->__construct()
+#2 {main}
+  thrown in /var/www/html/app/Services/RedisService.php on line 12
+[27-Apr-2025 17:18:00 UTC] Requisição: POST /api/messages
+[27-Apr-2025 17:18:00 UTC] PHP Fatal error:  Uncaught Error: Class "Redis" not found in /var/www/html/app/Services/RedisService.php:12
+Stack trace:
+#0 /var/www/html/app/Controllers/MessageController.php(17): App\Services\RedisService->__construct()
+#1 /var/www/html/public/index.php(65): App\Controllers\MessageController->__construct()
+#2 {main}
+  thrown in /var/www/html/app/Services/RedisService.php on line 12
+[27-Apr-2025 17:31:15 UTC] Requisição: POST /api/login
+[27-Apr-2025 17:31:15 UTC] Dados de login recebidos: {"email":"lucas.sampaio1901@outlook.com","password":"123"}
+[27-Apr-2025 17:31:15 UTC] Requisição: GET /api/messages
+[27-Apr-2025 17:31:15 UTC] PHP Fatal error:  Uncaught Error: Class "Redis" not found in /var/www/html/app/Services/RedisService.php:12
+Stack trace:
+#0 /var/www/html/app/Controllers/MessageController.php(17): App\Services\RedisService->__construct()
+#1 /var/www/html/public/index.php(59): App\Controllers\MessageController->__construct()
+#2 {main}
+  thrown in /var/www/html/app/Services/RedisService.php on line 12
+[27-Apr-2025 17:35:29 UTC] Requisição: POST /api/login
+[27-Apr-2025 17:35:29 UTC] Dados de login recebidos: {"email":"lucas.sampaio1901@outlook.com","password":"123"}
+[27-Apr-2025 17:35:29 UTC] Requisição: GET /api/messages
+[27-Apr-2025 17:35:45 UTC] Requisição: POST /api/messages
+[27-Apr-2025 17:35:45 UTC] Tentando enviar mensagem: {"content":"Ol\u00e1 boa tarde\n"}
+[27-Apr-2025 17:35:56 UTC] Requisição: GET /api/messages
+[27-Apr-2025 17:36:04 UTC] Requisição: POST /api/messages
+[27-Apr-2025 17:36:04 UTC] Tentando enviar mensagem: {"content":"Ol\u00e1 boa tarde"}
+[27-Apr-2025 17:36:07 UTC] Requisição: GET /api/messages
+[27-Apr-2025 17:37:50 UTC] Requisição: GET /api/messages
+[27-Apr-2025 17:37:50 UTC] Requisição: GET /favicon.ico
+[27-Apr-2025 17:42:50 UTC] Requisição: GET /api/messages
+[27-Apr-2025 17:48:48 UTC] Requisição: GET /api/messages
+[27-Apr-2025 17:52:23 UTC] Requisição: POST /api/login
+[27-Apr-2025 17:52:23 UTC] Dados de login recebidos: {"email":"lucas.sampaio1901@outlook.com","password":"123"}
+[27-Apr-2025 17:52:23 UTC] Requisição: GET /api/messages
+[27-Apr-2025 17:52:47 UTC] Requisição: POST /api/messages
+[27-Apr-2025 17:52:47 UTC] Tentando enviar mensagem: {"content":"Ol\u00e1 boa tarde\n"}
+[27-Apr-2025 17:52:47 UTC] Mensagem enviada com sucesso: {"id":129,"content":"Ol\u00e1 boa tarde\n","sender_id":1,"sender_name":"Voc\u00ea","created_at":"2025-04-27 17:52:47"}
+[27-Apr-2025 17:55:04 UTC] Requisição: POST /api/register
+[27-Apr-2025 17:55:04 UTC] Dados de registro: {"name":"Dayana","email":"lucas.game55@outlook.com","password":"123"}
+[27-Apr-2025 17:55:04 UTC] Dados de registro recebidos: {"name":"Dayana","email":"lucas.game55@outlook.com","password":"123"}
+[27-Apr-2025 17:55:08 UTC] Requisição: POST /api/login
+[27-Apr-2025 17:55:08 UTC] Dados de login recebidos: {"email":"lucas.game55@outlook.com","password":"123"}
+[27-Apr-2025 17:55:08 UTC] Requisição: GET /api/messages
+[27-Apr-2025 17:55:15 UTC] Requisição: POST /api/messages
+[27-Apr-2025 17:55:15 UTC] Tentando enviar mensagem: {"content":"ola\n"}
+[27-Apr-2025 17:55:15 UTC] Mensagem enviada com sucesso: {"id":996,"content":"ola\n","sender_id":1,"sender_name":"Voc\u00ea","created_at":"2025-04-27 17:55:15"}
+[27-Apr-2025 17:55:22 UTC] Requisição: GET /api/messages
+[27-Apr-2025 17:55:35 UTC] Requisição: POST /api/messages
+[27-Apr-2025 17:55:35 UTC] Tentando enviar mensagem: {"content":"ola boa tarde\n"}
+[27-Apr-2025 17:55:35 UTC] Mensagem enviada com sucesso: {"id":895,"content":"ola boa tarde\n","sender_id":1,"sender_name":"Voc\u00ea","created_at":"2025-04-27 17:55:35"}
+[27-Apr-2025 17:56:45 UTC] Requisição: POST /api/messages
+[27-Apr-2025 17:56:45 UTC] Tentando enviar mensagem: {"content":"boa tarde\n"}
+[27-Apr-2025 17:56:45 UTC] Mensagem enviada com sucesso: {"id":356,"content":"boa tarde\n","sender_id":1,"sender_name":"Voc\u00ea","created_at":"2025-04-27 17:56:45"}
+[27-Apr-2025 17:58:16 UTC] Requisição: GET /api/messages
+[27-Apr-2025 17:58:19 UTC] Requisição: GET /api/messages
+[27-Apr-2025 18:08:05 UTC] Requisição: GET /api/messages
+[27-Apr-2025 18:08:10 UTC] Requisição: POST /api/login
+[27-Apr-2025 18:08:10 UTC] Dados de login recebidos: {"email":"lucas.sampaio1901@outlook.com","password":"123"}
+[27-Apr-2025 18:08:10 UTC] Requisição: GET /api/messages
+[27-Apr-2025 18:16:44 UTC] Requisição: GET /api/messages
+[27-Apr-2025 18:16:49 UTC] Requisição: GET /api/messages
+[27-Apr-2025 18:16:53 UTC] Requisição: GET /api/messages
+[27-Apr-2025 18:16:58 UTC] Requisição: GET /api/messages
+[27-Apr-2025 18:17:08 UTC] Requisição: GET /api/messages
+[27-Apr-2025 18:17:28 UTC] Requisição: POST /api/messages
+[27-Apr-2025 18:17:28 UTC] Dados recebidos: {"content":"Ol\u00e1 boa tarde"}
+[27-Apr-2025 18:17:36 UTC] Requisição: GET /api/messages
+[27-Apr-2025 18:17:38 UTC] Requisição: POST /api/logout
+[27-Apr-2025 18:17:42 UTC] Requisição: POST /api/login
+[27-Apr-2025 18:17:42 UTC] Dados de login recebidos: {"email":"lucas.game55@outlook.com","password":"123"}
+[27-Apr-2025 18:17:43 UTC] Requisição: GET /api/messages
+[27-Apr-2025 18:17:53 UTC] Requisição: POST /api/messages
+[27-Apr-2025 18:17:53 UTC] Dados recebidos: {"content":"teste"}
+[27-Apr-2025 18:18:00 UTC] Requisição: POST /api/messages
+[27-Apr-2025 18:18:00 UTC] Dados recebidos: {"content":"oi"}
+[27-Apr-2025 18:18:06 UTC] Requisição: POST /api/logout
+[27-Apr-2025 18:18:09 UTC] Requisição: POST /api/login
+[27-Apr-2025 18:18:09 UTC] Dados de login recebidos: {"email":"lucas.sampaio1901@outlook.com","password":"123"}
+[27-Apr-2025 18:18:09 UTC] Requisição: GET /api/messages
+[27-Apr-2025 18:18:13 UTC] Requisição: POST /api/messages
+[27-Apr-2025 18:18:13 UTC] Dados recebidos: {"content":"oi"}
+[27-Apr-2025 18:18:17 UTC] Requisição: GET /api/messages
+[27-Apr-2025 18:18:21 UTC] Requisição: POST /api/messages
+[27-Apr-2025 18:18:21 UTC] Dados recebidos: {"content":"boa tarde"}
+[27-Apr-2025 18:19:06 UTC] Requisição: POST /api/messages
+[27-Apr-2025 18:19:06 UTC] Dados recebidos: {"content":"teste"}
+[27-Apr-2025 18:19:11 UTC] Requisição: POST /api/messages
+[27-Apr-2025 18:19:11 UTC] Dados recebidos: {"content":"alo"}
+[27-Apr-2025 18:20:23 UTC] Requisição: GET /api/messages
+[27-Apr-2025 18:20:28 UTC] Requisição: GET /api/messages
+[27-Apr-2025 18:33:02 UTC] Requisição: GET /api/messages
+[27-Apr-2025 18:33:02 UTC] Requisição: GET /api/messages
+[27-Apr-2025 18:33:03 UTC] Requisição: GET /api/messages
+[27-Apr-2025 18:33:06 UTC] Requisição: GET /api/messages
+[27-Apr-2025 18:33:11 UTC] Requisição: POST /api/messages
+[27-Apr-2025 18:33:11 UTC] Dados recebidos: {"content":"oi boa tarde"}
+[27-Apr-2025 18:33:11 UTC] Mensagem criada: {"id":"680e786739e87","content":"oi boa tarde","sender_id":1,"sender_name":"Voc\u00ea","created_at":"2025-04-27T18:33:11.000Z"}
+[27-Apr-2025 18:34:02 UTC] Requisição: POST /api/messages
+[27-Apr-2025 18:34:02 UTC] Dados recebidos: {"content":"teste"}
+[27-Apr-2025 18:34:02 UTC] Mensagem criada: {"id":"680e789a9555e","content":"teste","sender_id":1,"sender_name":"Voc\u00ea","created_at":"2025-04-27T18:34:02.000Z"}
+[27-Apr-2025 18:42:47 UTC] Requisição: GET /api/messages
+[27-Apr-2025 18:42:52 UTC] Requisição: GET /api/messages
+[27-Apr-2025 18:42:55 UTC] Requisição: POST /api/messages
+[27-Apr-2025 18:43:08 UTC] Requisição: POST /api/messages
+[27-Apr-2025 18:43:16 UTC] Requisição: POST /api/messages
+[27-Apr-2025 18:43:39 UTC] Requisição: POST /api/messages
+[27-Apr-2025 18:43:48 UTC] Requisição: GET /api/messages
+[27-Apr-2025 18:44:00 UTC] Requisição: POST /api/messages
+[27-Apr-2025 18:44:23 UTC] Requisição: POST /api/messages
+[27-Apr-2025 18:44:41 UTC] Requisição: POST /api/messages
+[27-Apr-2025 18:44:47 UTC] Requisição: GET /api/messages
+[27-Apr-2025 18:45:11 UTC] Requisição: POST /api/messages
+[27-Apr-2025 18:45:16 UTC] Requisição: GET /api/messages
+[27-Apr-2025 18:45:45 UTC] Requisição: POST /api/messages
+[27-Apr-2025 18:45:51 UTC] Requisição: GET /api/messages
+[27-Apr-2025 18:45:57 UTC] Requisição: POST /api/logout
+[27-Apr-2025 18:46:02 UTC] Requisição: POST /api/login
+[27-Apr-2025 18:46:02 UTC] Dados de login recebidos: {"email":"lucas.sampaio1901@outlook.com","password":"123"}
+[27-Apr-2025 18:46:02 UTC] Requisição: GET /api/messages
+[27-Apr-2025 18:46:41 UTC] Requisição: POST /api/messages
+[27-Apr-2025 18:46:45 UTC] Requisição: GET /api/messages
+[27-Apr-2025 18:57:36 UTC] Requisição: GET /api/messages
+[27-Apr-2025 18:57:36 UTC] Requisição: GET /api/messages
+[27-Apr-2025 18:57:39 UTC] Requisição: GET /api/messages
+[27-Apr-2025 18:57:47 UTC] Requisição: GET /api/messages
+[27-Apr-2025 18:57:50 UTC] Requisição: POST /api/logout
+[27-Apr-2025 18:57:53 UTC] Requisição: POST /api/login
+[27-Apr-2025 18:57:53 UTC] Dados de login recebidos: {"email":"lucas.sampaio1901@outlook.com","password":"123"}
+[27-Apr-2025 18:57:53 UTC] Requisição: GET /api/messages
+[27-Apr-2025 18:58:00 UTC] Requisição: POST /api/logout
+[27-Apr-2025 18:58:04 UTC] Requisição: POST /api/login
+[27-Apr-2025 18:58:04 UTC] Dados de login recebidos: {"email":"lucas.game55@outlook.com","password":"123"}
+[27-Apr-2025 18:58:04 UTC] Requisição: GET /api/messages
+[27-Apr-2025 18:58:22 UTC] Requisição: POST /api/messages
+[27-Apr-2025 18:58:29 UTC] Requisição: GET /api/messages
+[27-Apr-2025 18:58:57 UTC] Requisição: GET /api/messages
+[27-Apr-2025 19:22:39 UTC] Requisição: GET /api/messages
+[27-Apr-2025 19:22:39 UTC] Retornando 13 mensagens
+[27-Apr-2025 19:22:44 UTC] Requisição: GET /api/messages
+[27-Apr-2025 19:22:44 UTC] Retornando 13 mensagens
+[27-Apr-2025 19:22:54 UTC] Requisição: POST /api/messages
+[27-Apr-2025 19:22:54 UTC] Mensagem recebida de Usuário Teste (ID: 1): oi
+[27-Apr-2025 19:23:09 UTC] Requisição: POST /api/logout
+[27-Apr-2025 19:23:13 UTC] Requisição: POST /api/login
+[27-Apr-2025 19:23:13 UTC] Dados de login recebidos: {"email":"lucas.game55@outlook.com","password":"123"}
+[27-Apr-2025 19:23:13 UTC] Requisição: GET /api/messages
+[27-Apr-2025 19:23:13 UTC] Retornando 14 mensagens
+[27-Apr-2025 19:23:19 UTC] Requisição: POST /api/logout
+[27-Apr-2025 19:23:22 UTC] Requisição: POST /api/login
+[27-Apr-2025 19:23:22 UTC] Dados de login recebidos: {"email":"lucas.sampaio1901@outlook.com","password":"123"}
+[27-Apr-2025 19:23:22 UTC] Requisição: GET /api/messages
+[27-Apr-2025 19:23:22 UTC] Retornando 14 mensagens
+[27-Apr-2025 19:23:28 UTC] Requisição: POST /api/messages
+[27-Apr-2025 19:23:28 UTC] Mensagem recebida de Usuário Teste (ID: 1): teste
+[27-Apr-2025 19:31:34 UTC] Requisição: POST /api/logout
+[27-Apr-2025 19:31:42 UTC] Requisição: POST /api/login
+[27-Apr-2025 19:31:42 UTC] Dados de login recebidos: {"email":"lucas.game55@outlook.com","password":"123"}
+[27-Apr-2025 19:31:42 UTC] Requisição: GET /api/messages
+[27-Apr-2025 19:31:42 UTC] Retornando 15 mensagens
+[27-Apr-2025 19:31:51 UTC] Requisição: POST /api/messages
+[27-Apr-2025 19:31:51 UTC] Mensagem recebida de Usuário Teste (ID: 1): testando navegador
+[27-Apr-2025 19:31:59 UTC] Requisição: GET /api/messages
+[27-Apr-2025 19:31:59 UTC] Retornando 16 mensagens
+[27-Apr-2025 19:32:10 UTC] Requisição: POST /api/login
+[27-Apr-2025 19:32:10 UTC] Dados de login recebidos: {"email":"lucas.game55@outlook.com","password":"123"}
+[27-Apr-2025 19:32:10 UTC] Requisição: GET /api/messages
+[27-Apr-2025 19:32:10 UTC] Retornando 16 mensagens
+[27-Apr-2025 19:32:41 UTC] Requisição: POST /api/messages
+[27-Apr-2025 19:32:41 UTC] Mensagem recebida de Usuário Teste (ID: 1): teste
+[27-Apr-2025 19:32:46 UTC] Requisição: GET /api/messages
+[27-Apr-2025 19:32:46 UTC] Retornando 17 mensagens
+[27-Apr-2025 19:32:51 UTC] Requisição: POST /api/logout
+[27-Apr-2025 19:32:54 UTC] Requisição: POST /api/login
+[27-Apr-2025 19:32:54 UTC] Dados de login recebidos: {"email":"lucas.sampaio1901@outlook.com","password":"123"}
+[27-Apr-2025 19:32:54 UTC] Requisição: GET /api/messages
+[27-Apr-2025 19:32:54 UTC] Retornando 17 mensagens
+[27-Apr-2025 19:32:59 UTC] Requisição: POST /api/messages
+[27-Apr-2025 19:32:59 UTC] Mensagem recebida de Usuário Teste (ID: 1): e
+[27-Apr-2025 19:33:03 UTC] Requisição: GET /api/messages
+[27-Apr-2025 19:33:03 UTC] Retornando 18 mensagens
+[27-Apr-2025 19:33:09 UTC] Requisição: POST /api/logout
+[27-Apr-2025 19:33:13 UTC] Requisição: POST /api/login
+[27-Apr-2025 19:33:13 UTC] Dados de login recebidos: {"email":"lucas.game55@outlook.com","password":"123"}
+[27-Apr-2025 19:33:13 UTC] Requisição: GET /api/messages
+[27-Apr-2025 19:33:13 UTC] Retornando 18 mensagens
+[27-Apr-2025 19:33:16 UTC] Requisição: POST /api/messages
+[27-Apr-2025 19:33:16 UTC] Mensagem recebida de Usuário Teste (ID: 1): ue
+[27-Apr-2025 19:33:23 UTC] Requisição: GET /api/messages
+[27-Apr-2025 19:33:23 UTC] Retornando 19 mensagens
+[28-Apr-2025 16:21:40 UTC] Requisição: POST /api/login
+[28-Apr-2025 16:21:40 UTC] Dados de login recebidos: {"email":"lucas.sampaio1901@outlook.com","password":"123"}
+[28-Apr-2025 16:21:40 UTC] Requisição: GET /api/messages
+[28-Apr-2025 16:21:40 UTC] Retornando 19 mensagens
+[28-Apr-2025 16:21:56 UTC] Requisição: POST /api/login
+[28-Apr-2025 16:21:56 UTC] Dados de login recebidos: {"email":"lucas.game55@outlook.com","password":"123"}
+[28-Apr-2025 16:21:56 UTC] Requisição: GET /api/messages
+[28-Apr-2025 16:21:56 UTC] Retornando 19 mensagens
+[28-Apr-2025 16:45:15 UTC] Requisição: GET /api/messages
+[28-Apr-2025 16:45:15 UTC] Retornando 19 mensagens
+[28-Apr-2025 16:45:37 UTC] Requisição: GET /api/messages
+[28-Apr-2025 16:45:37 UTC] Retornando 19 mensagens
+[28-Apr-2025 16:45:57 UTC] Requisição: POST /api/messages
+[28-Apr-2025 16:45:57 UTC] Mensagem recebida de Usuário Teste (ID: 1): ola
+[28-Apr-2025 16:46:04 UTC] Requisição: GET /api/messages
+[28-Apr-2025 16:46:04 UTC] Retornando 20 mensagens
+[28-Apr-2025 16:51:15 UTC] Requisição: POST /api/messages
+[28-Apr-2025 16:51:15 UTC] Mensagem recebida de Usuário Teste (ID: 1): bom dia
+[28-Apr-2025 16:51:27 UTC] Requisição: GET /api/messages
+[28-Apr-2025 16:51:27 UTC] Retornando 21 mensagens
+[28-Apr-2025 16:52:49 UTC] Requisição: POST /api/logout
+[28-Apr-2025 16:53:04 UTC] Requisição: POST /api/login
+[28-Apr-2025 16:53:04 UTC] Dados de login recebidos: {"email":"lucas.sampaio1901@outlook.com","password":"123"}
+[28-Apr-2025 16:53:04 UTC] Requisição: GET /api/messages
+[28-Apr-2025 16:53:04 UTC] Retornando 21 mensagens

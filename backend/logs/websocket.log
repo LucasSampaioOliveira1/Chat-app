@@ -1,0 +1,395 @@
+[27-Apr-2025 18:57:24 UTC] Iniciando servidor WebSocket...
+[27-Apr-2025 18:57:24 UTC] Servidor WebSocket rodando em 0.0.0.0:8081
+[27-Apr-2025 18:57:26 UTC] Nova conex√£o WebSocket de 172.19.0.1
+[27-Apr-2025 18:57:27 UTC] Nova conex√£o WebSocket de 172.19.0.1
+[27-Apr-2025 18:57:36 UTC] WebSocket recebeu mensagem de 172.19.0.1: È
+[27-Apr-2025 18:57:36 UTC] WebSocket recebeu mensagem de 172.19.0.1: È
+[27-Apr-2025 18:57:36 UTC] Cliente WebSocket desconectado: 172.19.0.1
+[27-Apr-2025 18:57:36 UTC] Cliente WebSocket desconectado: 172.19.0.1
+[27-Apr-2025 18:57:36 UTC] Nova conex√£o WebSocket de 172.19.0.1
+[27-Apr-2025 18:57:36 UTC] Nova conex√£o WebSocket de 172.19.0.1
+[27-Apr-2025 18:57:37 UTC] Nova conex√£o WebSocket de 172.19.0.1
+[27-Apr-2025 18:57:37 UTC] Nova conex√£o WebSocket de 172.19.0.1
+[27-Apr-2025 18:57:38 UTC] WebSocket recebeu mensagem de 172.19.0.1: È
+[27-Apr-2025 18:57:38 UTC] WebSocket recebeu mensagem de 172.19.0.1: È
+[27-Apr-2025 18:57:38 UTC] Cliente WebSocket desconectado: 172.19.0.1
+[27-Apr-2025 18:57:38 UTC] Cliente WebSocket desconectado: 172.19.0.1
+[27-Apr-2025 18:57:38 UTC] WebSocket recebeu mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[27-Apr-2025 18:57:38 UTC] WebSocket recebeu mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[27-Apr-2025 18:57:38 UTC] Cliente WebSocket desconectado: 172.19.0.1
+[27-Apr-2025 18:57:38 UTC] Cliente WebSocket desconectado: 172.19.0.1
+[27-Apr-2025 18:57:39 UTC] Nova conex√£o WebSocket de 172.19.0.1
+[27-Apr-2025 18:57:39 UTC] Nova conex√£o WebSocket de 172.19.0.1
+[27-Apr-2025 18:57:44 UTC] Nova conex√£o WebSocket de 172.19.0.1
+[27-Apr-2025 18:57:44 UTC] Nova conex√£o WebSocket de 172.19.0.1
+[27-Apr-2025 18:57:47 UTC] WebSocket recebeu mensagem de 172.19.0.1: È
+[27-Apr-2025 18:57:47 UTC] WebSocket recebeu mensagem de 172.19.0.1: È
+[27-Apr-2025 18:57:47 UTC] WebSocket recebeu mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[27-Apr-2025 18:57:47 UTC] WebSocket recebeu mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[27-Apr-2025 18:57:47 UTC] PHP Warning:  socket_getpeername(): unable to retrieve peer name [107]: Transport endpoint is not connected in /var/www/html/ws/server.php on line 75
+[27-Apr-2025 18:57:47 UTC] Cliente WebSocket desconectado: 172.19.0.1
+[27-Apr-2025 18:57:47 UTC] PHP Warning:  socket_getpeername(): unable to retrieve peer name [107]: Transport endpoint is not connected in /var/www/html/ws/server.php on line 75
+[27-Apr-2025 18:57:47 UTC] Cliente WebSocket desconectado: 172.19.0.1
+[27-Apr-2025 18:57:47 UTC] Cliente WebSocket desconectado: 172.19.0.1
+[27-Apr-2025 18:57:47 UTC] Cliente WebSocket desconectado: 172.19.0.1
+[27-Apr-2025 18:57:47 UTC] Nova conex√£o WebSocket de 172.19.0.1
+[27-Apr-2025 18:57:47 UTC] Nova conex√£o WebSocket de 172.19.0.1
+[27-Apr-2025 18:57:50 UTC] WebSocket recebeu mensagem de 172.19.0.1: 
+[27-Apr-2025 18:57:52 UTC] Nova conex√£o WebSocket de 172.19.0.1
+[27-Apr-2025 18:57:52 UTC] Nova conex√£o WebSocket de 172.19.0.1
+[27-Apr-2025 18:57:53 UTC] Nova conex√£o WebSocket de 172.19.0.1
+[27-Apr-2025 18:58:00 UTC] WebSocket recebeu mensagem de 172.19.0.1: 
+[27-Apr-2025 18:58:04 UTC] Nova conex√£o WebSocket de 172.19.0.1
+[27-Apr-2025 18:58:18 UTC] WebSocket recebeu mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[27-Apr-2025 18:58:19 UTC] WebSocket recebeu mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[27-Apr-2025 18:58:19 UTC] WebSocket recebeu mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[27-Apr-2025 18:58:19 UTC] WebSocket recebeu mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[27-Apr-2025 18:58:20 UTC] WebSocket recebeu mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[27-Apr-2025 18:58:20 UTC] WebSocket recebeu mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[27-Apr-2025 18:58:21 UTC] WebSocket recebeu mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[27-Apr-2025 18:58:21 UTC] WebSocket recebeu mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[27-Apr-2025 18:58:21 UTC] WebSocket recebeu mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[27-Apr-2025 18:58:22 UTC] WebSocket recebeu mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[27-Apr-2025 18:58:22 UTC] WebSocket recebeu mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":false}
+[27-Apr-2025 18:58:29 UTC] Nova conex√£o WebSocket de 172.19.0.1
+[27-Apr-2025 18:58:29 UTC] WebSocket recebeu mensagem de 172.19.0.1: È
+[27-Apr-2025 18:58:29 UTC] Cliente WebSocket desconectado: 172.19.0.1
+[27-Apr-2025 18:58:29 UTC] WebSocket recebeu mensagem de 172.19.0.1: È
+[27-Apr-2025 18:58:29 UTC] WebSocket recebeu mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[27-Apr-2025 18:58:29 UTC] Cliente WebSocket desconectado: 172.19.0.1
+[27-Apr-2025 18:58:29 UTC] WebSocket recebeu mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[27-Apr-2025 18:58:29 UTC] PHP Warning:  socket_getpeername(): unable to retrieve peer name [107]: Transport endpoint is not connected in /var/www/html/ws/server.php on line 75
+[27-Apr-2025 18:58:29 UTC] Cliente WebSocket desconectado: 172.19.0.1
+[27-Apr-2025 18:58:29 UTC] Nova conex√£o WebSocket de 172.19.0.1
+[27-Apr-2025 18:58:29 UTC] Cliente WebSocket desconectado: 172.19.0.1
+[27-Apr-2025 18:58:29 UTC] Cliente WebSocket desconectado: 172.19.0.1
+[27-Apr-2025 18:58:29 UTC] WebSocket recebeu mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[27-Apr-2025 18:58:29 UTC] Cliente WebSocket desconectado: 172.19.0.1
+[27-Apr-2025 18:58:29 UTC] WebSocket recebeu mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[27-Apr-2025 18:58:29 UTC] Cliente WebSocket desconectado: 172.19.0.1
+[27-Apr-2025 18:58:34 UTC] Nova conex√£o WebSocket de 172.19.0.1
+[27-Apr-2025 18:58:34 UTC] Nova conex√£o WebSocket de 172.19.0.1
+[27-Apr-2025 18:58:34 UTC] Nova conex√£o WebSocket de 172.19.0.1
+[27-Apr-2025 18:58:34 UTC] Nova conex√£o WebSocket de 172.19.0.1
+[27-Apr-2025 18:58:50 UTC] Cliente WebSocket desconectado: 172.19.0.1
+[27-Apr-2025 18:58:55 UTC] Nova conex√£o WebSocket de 172.19.0.1
+[27-Apr-2025 18:58:57 UTC] Nova conex√£o WebSocket de 172.19.0.1
+[27-Apr-2025 18:58:57 UTC] WebSocket recebeu mensagem de 172.19.0.1: È
+[27-Apr-2025 18:58:57 UTC] WebSocket recebeu mensagem de 172.19.0.1: È
+[27-Apr-2025 18:58:57 UTC] Cliente WebSocket desconectado: 172.19.0.1
+[27-Apr-2025 18:58:57 UTC] Cliente WebSocket desconectado: 172.19.0.1
+[27-Apr-2025 18:58:57 UTC] WebSocket recebeu mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[27-Apr-2025 18:58:57 UTC] WebSocket recebeu mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[27-Apr-2025 18:58:57 UTC] WebSocket recebeu mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[27-Apr-2025 18:58:57 UTC] WebSocket recebeu mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[27-Apr-2025 18:58:57 UTC] Nova conex√£o WebSocket de 172.19.0.1
+[27-Apr-2025 18:58:57 UTC] Cliente WebSocket desconectado: 172.19.0.1
+[27-Apr-2025 18:58:57 UTC] Cliente WebSocket desconectado: 172.19.0.1
+[27-Apr-2025 18:58:57 UTC] Cliente WebSocket desconectado: 172.19.0.1
+[27-Apr-2025 18:58:57 UTC] Cliente WebSocket desconectado: 172.19.0.1
+[27-Apr-2025 18:59:02 UTC] Nova conex√£o WebSocket de 172.19.0.1
+[27-Apr-2025 18:59:02 UTC] Nova conex√£o WebSocket de 172.19.0.1
+[27-Apr-2025 18:59:02 UTC] Nova conex√£o WebSocket de 172.19.0.1
+[27-Apr-2025 18:59:03 UTC] Nova conex√£o WebSocket de 172.19.0.1
+[27-Apr-2025 19:01:12 UTC] WebSocket recebeu mensagem de 172.19.0.1: È
+[27-Apr-2025 19:01:12 UTC] WebSocket recebeu mensagem de 172.19.0.1: È
+[27-Apr-2025 19:01:12 UTC] Cliente WebSocket desconectado: 172.19.0.1
+[27-Apr-2025 19:01:12 UTC] WebSocket recebeu mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[27-Apr-2025 19:01:12 UTC] WebSocket recebeu mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[27-Apr-2025 19:01:12 UTC] WebSocket recebeu mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[27-Apr-2025 19:01:12 UTC] PHP Warning:  socket_write(): unable to write to socket [32]: Broken pipe in /var/www/html/ws/server.php on line 144
+[27-Apr-2025 19:01:12 UTC] PHP Warning:  socket_getpeername(): unable to retrieve peer name [107]: Transport endpoint is not connected in /var/www/html/ws/server.php on line 75
+[27-Apr-2025 19:01:12 UTC] Cliente WebSocket desconectado: 172.19.0.1
+[27-Apr-2025 19:01:12 UTC] Cliente WebSocket desconectado: 172.19.0.1
+[27-Apr-2025 19:01:12 UTC] Cliente WebSocket desconectado: 172.19.0.1
+[27-Apr-2025 19:01:12 UTC] Cliente WebSocket desconectado: 172.19.0.1
+[2025-04-27 19:21:51] Iniciando servidor WebSocket...
+[2025-04-27 19:21:51] Servidor WebSocket rodando em 0.0.0.0:8081
+[2025-04-27 19:22:39] Nova conex√£o de 172.19.0.1
+[2025-04-27 19:22:39] Nova conex√£o de 172.19.0.1
+[2025-04-27 19:22:39] Mensagem de 172.19.0.1: {"type":"identify","userId":"1","userName":"Usu√°rio Teste"}
+[2025-04-27 19:22:44] Nova conex√£o de 172.19.0.1
+[2025-04-27 19:22:44] Nova conex√£o de 172.19.0.1
+[2025-04-27 19:22:44] Mensagem de 172.19.0.1: {"type":"identify","userId":"1","userName":"Usu√°rio Teste"}
+[2025-04-27 19:22:53] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-27 19:22:53] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-27 19:22:54] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":false}
+[2025-04-27 19:22:54] Mensagem de 172.19.0.1: {"id":14,"content":"oi","sender_id":"1","sender_name":"Usu√°rio Teste","created_at":"2025-04-27T19:22:54.000Z"}
+[2025-04-27 19:23:09] Mensagem de 172.19.0.1: 
+[2025-04-27 19:23:13] Nova conex√£o de 172.19.0.1
+[2025-04-27 19:23:13] Mensagem de 172.19.0.1: {"type":"identify","userId":"1","userName":"Usu√°rio Teste"}
+[2025-04-27 19:23:19] Mensagem de 172.19.0.1: 
+[2025-04-27 19:23:22] Nova conex√£o de 172.19.0.1
+[2025-04-27 19:23:22] Mensagem de 172.19.0.1: {"type":"identify","userId":"1","userName":"Usu√°rio Teste"}
+[2025-04-27 19:23:27] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-27 19:23:27] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-27 19:23:27] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-27 19:23:28] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-27 19:23:28] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-27 19:23:28] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":false}
+[2025-04-27 19:23:28] Mensagem de 172.19.0.1: {"id":15,"content":"teste","sender_id":"1","sender_name":"Usu√°rio Teste","created_at":"2025-04-27T19:23:28.000Z"}
+[2025-04-27 19:24:09] Cliente desconectado: 172.19.0.1
+[2025-04-27 19:24:14] Nova conex√£o de 172.19.0.1
+[2025-04-27 19:24:15] Mensagem de 172.19.0.1: {"type":"identify","userId":"1","userName":"Usu√°rio Teste"}
+[2025-04-27 19:24:19] Cliente desconectado: 172.19.0.1
+[2025-04-27 19:24:24] Nova conex√£o de 172.19.0.1
+[2025-04-27 19:24:24] Mensagem de 172.19.0.1: {"type":"identify","userId":"1","userName":"Usu√°rio Teste"}
+[2025-04-27 19:31:30] Nova conex√£o de 172.19.0.1
+[2025-04-27 19:31:30] Cliente desconectado: 172.19.0.1
+[2025-04-27 19:31:35] Mensagem de 172.19.0.1: 
+[2025-04-27 19:31:36] Nova conex√£o de 172.19.0.1
+[2025-04-27 19:31:42] Nova conex√£o de 172.19.0.1
+[2025-04-27 19:31:42] Mensagem de 172.19.0.1: {"type":"identify","userId":"1","userName":"Usu√°rio Teste"}
+[2025-04-27 19:31:47] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-27 19:31:47] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-27 19:31:47] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-27 19:31:47] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-27 19:31:48] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-27 19:31:48] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-27 19:31:48] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-27 19:31:49] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-27 19:31:49] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-27 19:31:49] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-27 19:31:49] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-27 19:31:49] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-27 19:31:49] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-27 19:31:50] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-27 19:31:50] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-27 19:31:50] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-27 19:31:50] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-27 19:31:50] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-27 19:31:51] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":false}(}_$´ê®–,˘Ãâ4°ûá,Û«≈zı∆ﬂ,™äﬂk„‹ `Ù«ã`ÒﬁŒiÒÃƒ|≤Ñâ}ı∆œk‚˜¬j≤íâ?≤Ñâ}ı∆œk‚˜≈o˝Õâ4≤˝ÿ{S	Ÿgˇàˇk„‹Œ,ºä»|ı…ﬂkÙ˜ z≤íâ<†öû#†úÜ<ß¸ö7™õö4•ôÖ>†òÒ,Ì
+[2025-04-27 19:31:51] Mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[2025-04-27 19:31:51] Mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[2025-04-27 19:31:51] Mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[2025-04-27 19:31:51] Mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[2025-04-27 19:31:51] Mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[2025-04-27 19:31:51] Mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[2025-04-27 19:31:51] Cliente desconectado: 172.19.0.1
+[2025-04-27 19:31:51] Cliente desconectado: 172.19.0.1
+[2025-04-27 19:31:51] Cliente desconectado: 172.19.0.1
+[2025-04-27 19:31:51] Cliente desconectado: 172.19.0.1
+[2025-04-27 19:31:51] Cliente desconectado: 172.19.0.1
+[2025-04-27 19:31:51] Cliente desconectado: 172.19.0.1
+[2025-04-27 19:31:51] Mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[2025-04-27 19:31:51] Cliente desconectado: 172.19.0.1
+[2025-04-27 19:31:56] Nova conex√£o de 172.19.0.1
+[2025-04-27 19:31:56] Nova conex√£o de 172.19.0.1
+[2025-04-27 19:31:56] Mensagem de 172.19.0.1: {"type":"identify","userId":"1","userName":"Usu√°rio Teste"}
+[2025-04-27 19:31:56] Nova conex√£o de 172.19.0.1
+[2025-04-27 19:31:56] Mensagem de 172.19.0.1: {"type":"identify","userId":"1","userName":"Usu√°rio Teste"}
+[2025-04-27 19:31:57] Nova conex√£o de 172.19.0.1
+[2025-04-27 19:31:57] Mensagem de 172.19.0.1: {"type":"identify","userId":"1","userName":"Usu√°rio Teste"}
+[2025-04-27 19:31:58] Mensagem de 172.19.0.1: È
+[2025-04-27 19:31:58] Mensagem de 172.19.0.1: È
+[2025-04-27 19:31:58] Cliente desconectado: 172.19.0.1
+[2025-04-27 19:31:58] Cliente desconectado: 172.19.0.1
+[2025-04-27 19:31:58] Mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[2025-04-27 19:31:58] Mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[2025-04-27 19:31:58] Cliente desconectado: 172.19.0.1
+[2025-04-27 19:31:58] Cliente desconectado: 172.19.0.1
+[2025-04-27 19:31:59] Nova conex√£o de 172.19.0.1
+[2025-04-27 19:31:59] Nova conex√£o de 172.19.0.1
+[2025-04-27 19:31:59] Mensagem de 172.19.0.1: {"type":"identify","userId":"1","userName":"Usu√°rio Teste"}
+[2025-04-27 19:32:03] Nova conex√£o de 172.19.0.1
+[2025-04-27 19:32:03] Mensagem de 172.19.0.1: {"type":"identify","userId":"1","userName":"Usu√°rio Teste"}
+[2025-04-27 19:32:04] Nova conex√£o de 172.19.0.1
+[2025-04-27 19:32:04] Mensagem de 172.19.0.1: {"type":"identify","userId":"1","userName":"Usu√°rio Teste"}
+[2025-04-27 19:32:04] Mensagem de 172.19.0.1: È
+[2025-04-27 19:32:04] Cliente desconectado: 172.19.0.1
+[2025-04-27 19:32:04] Mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[2025-04-27 19:32:04] Mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[2025-04-27 19:32:04] Mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[2025-04-27 19:32:04] Cliente desconectado: 172.19.0.1
+[2025-04-27 19:32:04] Cliente desconectado: 172.19.0.1
+[2025-04-27 19:32:04] Cliente desconectado: 172.19.0.1
+[2025-04-27 19:32:09] Nova conex√£o de 172.19.0.1
+[2025-04-27 19:32:09] Mensagem de 172.19.0.1: {"type":"identify","userId":"1","userName":"Usu√°rio Teste"}
+[2025-04-27 19:32:10] Nova conex√£o de 172.19.0.1
+[2025-04-27 19:32:10] Mensagem de 172.19.0.1: {"type":"identify","userId":"1","userName":"Usu√°rio Teste"}
+[2025-04-27 19:32:11] Nova conex√£o de 172.19.0.1
+[2025-04-27 19:32:11] Mensagem de 172.19.0.1: {"type":"identify","userId":"1","userName":"Usu√°rio Teste"}
+[2025-04-27 19:32:30] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-27 19:32:30] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-27 19:32:31] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-27 19:32:31] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-27 19:32:32] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-27 19:32:33] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-27 19:32:33] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-27 19:32:34] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-27 19:32:34] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-27 19:32:34] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-27 19:32:35] Cliente desconectado: 172.19.0.1
+[2025-04-27 19:32:40] Nova conex√£o de 172.19.0.1
+[2025-04-27 19:32:40] Mensagem de 172.19.0.1: {"type":"identify","userId":"1","userName":"Usu√°rio Teste"}
+[2025-04-27 19:32:40] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-27 19:32:40] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-27 19:32:41] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-27 19:32:41] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-27 19:32:41] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-27 19:32:41] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":false}
+[2025-04-27 19:32:42] Mensagem de 172.19.0.1: {"id":17,"content":"teste","sender_id":"1","sender_name":"Usu√°rio Teste","created_at":"2025-04-27T19:32:41.000Z"}
+[2025-04-27 19:32:45] Mensagem de 172.19.0.1: È
+[2025-04-27 19:32:45] Cliente desconectado: 172.19.0.1
+[2025-04-27 19:32:45] Mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[2025-04-27 19:32:45] Mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[2025-04-27 19:32:45] Mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[2025-04-27 19:32:45] Cliente desconectado: 172.19.0.1
+[2025-04-27 19:32:45] Cliente desconectado: 172.19.0.1
+[2025-04-27 19:32:45] Cliente desconectado: 172.19.0.1
+[2025-04-27 19:32:46] Nova conex√£o de 172.19.0.1
+[2025-04-27 19:32:46] Nova conex√£o de 172.19.0.1
+[2025-04-27 19:32:46] Mensagem de 172.19.0.1: {"type":"identify","userId":"1","userName":"Usu√°rio Teste"}
+[2025-04-27 19:32:51] Mensagem de 172.19.0.1: 
+[2025-04-27 19:32:51] Nova conex√£o de 172.19.0.1
+[2025-04-27 19:32:51] Nova conex√£o de 172.19.0.1
+[2025-04-27 19:32:51] Mensagem de 172.19.0.1: {"type":"identify","userId":"1","userName":"Usu√°rio Teste"}
+[2025-04-27 19:32:54] Nova conex√£o de 172.19.0.1
+[2025-04-27 19:32:54] Mensagem de 172.19.0.1: {"type":"identify","userId":"1","userName":"Usu√°rio Teste"}
+[2025-04-27 19:32:59] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-27 19:32:59] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":false}ïw≈}∑hæ_ﬁÁGÜPÈ_‘´	“±_çJ†_õJ∂Ÿ†Ë°_çJÙ_õJ∂Ÿ†Ë§“Jˇ_‚∞æ¨ó<†√ÁQï∑÷†Ë	±_çJ˜MÖ]ËMÉE˜J„Y¸GÑZˇHéFıMá2Á 
+[2025-04-27 19:32:59] Mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[2025-04-27 19:32:59] Mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[2025-04-27 19:32:59] Mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[2025-04-27 19:32:59] Cliente desconectado: 172.19.0.1
+[2025-04-27 19:32:59] Cliente desconectado: 172.19.0.1
+[2025-04-27 19:32:59] Cliente desconectado: 172.19.0.1
+[2025-04-27 19:32:59] Mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[2025-04-27 19:32:59] Cliente desconectado: 172.19.0.1
+[2025-04-27 19:33:03] Nova conex√£o de 172.19.0.1
+[2025-04-27 19:33:03] Nova conex√£o de 172.19.0.1
+[2025-04-27 19:33:03] Mensagem de 172.19.0.1: {"type":"identify","userId":"1","userName":"Usu√°rio Teste"}
+[2025-04-27 19:33:05] Nova conex√£o de 172.19.0.1
+[2025-04-27 19:33:05] Mensagem de 172.19.0.1: {"type":"identify","userId":"1","userName":"Usu√°rio Teste"}
+[2025-04-27 19:33:09] Mensagem de 172.19.0.1: 
+[2025-04-27 19:33:13] Nova conex√£o de 172.19.0.1
+[2025-04-27 19:33:13] Mensagem de 172.19.0.1: {"type":"identify","userId":"1","userName":"Usu√°rio Teste"}
+[2025-04-27 19:33:16] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-27 19:33:16] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-27 19:33:16] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":false}ôÕ ˇN‰[›'Ä≈››-ãNã+äT›t∆Uöl»å+äDö<ªIõlﬁŒl»å+äDö<ªNû#Å≈l±SäçERñ!ƒtö=êE›b∆Cç+ÖTö*ªAãlﬁÕ~÷“~–Õy∞∆t◊≈“œ~‘z›3
+[2025-04-27 19:33:16] Mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[2025-04-27 19:33:16] Mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[2025-04-27 19:33:16] Cliente desconectado: 172.19.0.1
+[2025-04-27 19:33:16] Cliente desconectado: 172.19.0.1
+[2025-04-27 19:33:16] Mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[2025-04-27 19:33:16] Cliente desconectado: 172.19.0.1
+[2025-04-27 19:33:21] Nova conex√£o de 172.19.0.1
+[2025-04-27 19:33:21] Mensagem de 172.19.0.1: {"type":"identify","userId":"1","userName":"Usu√°rio Teste"}
+[2025-04-27 19:33:22] Nova conex√£o de 172.19.0.1
+[2025-04-27 19:33:22] Mensagem de 172.19.0.1: {"type":"identify","userId":"1","userName":"Usu√°rio Teste"}
+[2025-04-27 19:33:23] Cliente desconectado: 172.19.0.1
+[2025-04-27 19:33:23] Mensagem de 172.19.0.1: È
+[2025-04-27 19:33:23] Cliente desconectado: 172.19.0.1
+[2025-04-27 19:33:23] Mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[2025-04-27 19:33:23] Cliente desconectado: 172.19.0.1
+[2025-04-27 19:33:23] Nova conex√£o de 172.19.0.1
+[2025-04-27 19:33:23] Nova conex√£o de 172.19.0.1
+[2025-04-27 19:33:23] Mensagem de 172.19.0.1: {"type":"identify","userId":"1","userName":"Usu√°rio Teste"}
+[2025-04-27 19:33:29] Nova conex√£o de 172.19.0.1
+[2025-04-27 19:33:29] Mensagem de 172.19.0.1: {"type":"identify","userId":"1","userName":"Usu√°rio Teste"}
+[2025-04-27 19:34:00] Cliente desconectado: 172.19.0.1
+[2025-04-27 19:34:00] Mensagem de 172.19.0.1: È
+[2025-04-27 19:34:00] Cliente desconectado: 172.19.0.1
+[2025-04-27 19:34:00] Mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[2025-04-27 19:34:00] Mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[2025-04-27 19:34:00] Cliente desconectado: 172.19.0.1
+[2025-04-27 19:34:00] Cliente desconectado: 172.19.0.1
+[2025-04-28 16:20:46] Iniciando servidor WebSocket...
+[2025-04-28 16:20:46] Servidor WebSocket rodando em 0.0.0.0:8081
+[2025-04-28 16:21:14] Nova conex√£o de 172.19.0.1
+[2025-04-28 16:21:14] Mensagem de 172.19.0.1: È
+[2025-04-28 16:21:14] Cliente desconectado: 172.19.0.1
+[2025-04-28 16:21:19] Nova conex√£o de 172.19.0.1
+[2025-04-28 16:21:19] Mensagem de 172.19.0.1: {"type":"identify","userId":"1","userName":"Usu√°rio Teste"}
+[2025-04-28 16:21:40] Nova conex√£o de 172.19.0.1
+[2025-04-28 16:21:40] Mensagem de 172.19.0.1: {"type":"identify","userId":"1","userName":"Usu√°rio Teste"}
+[2025-04-28 16:21:56] Nova conex√£o de 172.19.0.1
+[2025-04-28 16:21:56] Nova conex√£o de 172.19.0.1
+[2025-04-28 16:21:56] Mensagem de 172.19.0.1: {"type":"identify","userId":"1","userName":"Usu√°rio Teste"}
+[2025-04-28 16:28:08] Mensagem de 172.19.0.1: È
+[2025-04-28 16:28:08] Mensagem de 172.19.0.1: È
+[2025-04-28 16:28:08] Cliente desconectado: 172.19.0.1
+[2025-04-28 16:28:08] Cliente desconectado: 172.19.0.1
+[2025-04-28 16:28:08] Mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[2025-04-28 16:28:08] Mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[2025-04-28 16:28:08] Cliente desconectado: 172.19.0.1
+[2025-04-28 16:28:08] Cliente desconectado: 172.19.0.1
+[2025-04-28 16:36:22] Iniciando servidor WebSocket...
+[2025-04-28 16:36:22] Servidor WebSocket rodando em 0.0.0.0:8081
+[2025-04-28 16:45:15] Nova conex√£o de 172.19.0.1
+[2025-04-28 16:45:15] Nova conex√£o de 172.19.0.1
+[2025-04-28 16:45:16] Mensagem de 172.19.0.1: {"type":"identify","userId":"1","userName":"Usu√°rio Teste"}
+[2025-04-28 16:45:37] Nova conex√£o de 172.19.0.1
+[2025-04-28 16:45:37] Nova conex√£o de 172.19.0.1
+[2025-04-28 16:45:37] Mensagem de 172.19.0.1: {"type":"identify","userId":"1","userName":"Usu√°rio Teste"}
+[2025-04-28 16:45:57] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-28 16:45:57] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-28 16:45:57] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-28 16:45:57] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":false}ıL•ñÄﬁ¥Èjá¨≤>â¥„aÀ‚Â`—¥∫, ˙·,â¥ÛkÀÚÂ|˙ˇ‰,ü¥±,â¥ÛkÀÚÂ|˙¯·c¿¥∫,ÂıÕ‰ÈaÖ¬Â}—Û¢"áıÚkƒ‚Âj˙˜Ù,ü¥≤>ó£≠>ëª≤6Òß∂4ë£∫;í∏∞>ïÃ¢s
+[2025-04-28 16:45:58] Mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[2025-04-28 16:45:58] Mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[2025-04-28 16:45:58] Mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[2025-04-28 16:45:58] Cliente desconectado: 172.19.0.1
+[2025-04-28 16:45:58] Cliente desconectado: 172.19.0.1
+[2025-04-28 16:45:58] Cliente desconectado: 172.19.0.1
+[2025-04-28 16:45:58] Mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[2025-04-28 16:45:58] Cliente desconectado: 172.19.0.1
+[2025-04-28 16:46:02] Nova conex√£o de 172.19.0.1
+[2025-04-28 16:46:02] Mensagem de 172.19.0.1: {"type":"identify","userId":"1","userName":"Usu√°rio Teste"}
+[2025-04-28 16:46:03] Nova conex√£o de 172.19.0.1
+[2025-04-28 16:46:03] Mensagem de 172.19.0.1: {"type":"identify","userId":"1","userName":"Usu√°rio Teste"}
+[2025-04-28 16:46:04] Nova conex√£o de 172.19.0.1
+[2025-04-28 16:46:04] Mensagem de 172.19.0.1: È
+[2025-04-28 16:46:04] Cliente desconectado: 172.19.0.1
+[2025-04-28 16:46:04] Mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[2025-04-28 16:46:04] Nova conex√£o de 172.19.0.1
+[2025-04-28 16:46:04] Cliente desconectado: 172.19.0.1
+[2025-04-28 16:46:04] Mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[2025-04-28 16:46:04] Mensagem de 172.19.0.1: {"type":"identify","userId":"1","userName":"Usu√°rio Teste"}
+[2025-04-28 16:46:04] Cliente desconectado: 172.19.0.1
+[2025-04-28 16:46:04] Mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[2025-04-28 16:46:04] Cliente desconectado: 172.19.0.1
+[2025-04-28 16:46:09] Nova conex√£o de 172.19.0.1
+[2025-04-28 16:46:09] Mensagem de 172.19.0.1: {"type":"identify","userId":"1","userName":"Usu√°rio Teste"}
+[2025-04-28 16:46:09] Nova conex√£o de 172.19.0.1
+[2025-04-28 16:46:09] Mensagem de 172.19.0.1: {"type":"identify","userId":"1","userName":"Usu√°rio Teste"}
+[2025-04-28 16:51:13] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-28 16:51:13] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-28 16:51:13] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-28 16:51:14] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-28 16:51:14] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-28 16:51:14] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-28 16:51:15] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":true}
+[2025-04-28 16:51:15] Mensagem de 172.19.0.1: {"type":"typing","userId":"1","userName":"Usu√°rio Teste","isTyping":false}∏Ñ…;ˇÎR|¶Û	)®ÎXwÍΩ^vÎ:Ê¶V8‡†Z:®ÎH}Í≠^j€†_:æÎ
+:®ÎH}Í≠^j€ßZu·Î:—∫N€%ªRw§ù^k¨4¶™I}ÂΩ^|€®O:æÎ	(∂¸(∞‰	 –¯"±¯)±Á(¥ìe
+[2025-04-28 16:51:15] Mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[2025-04-28 16:51:15] Cliente desconectado: 172.19.0.1
+[2025-04-28 16:51:15] Mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[2025-04-28 16:51:15] Cliente desconectado: 172.19.0.1
+[2025-04-28 16:51:20] Nova conex√£o de 172.19.0.1
+[2025-04-28 16:51:20] Mensagem de 172.19.0.1: {"type":"identify","userId":"1","userName":"Usu√°rio Teste"}
+[2025-04-28 16:51:21] Nova conex√£o de 172.19.0.1
+[2025-04-28 16:51:21] Mensagem de 172.19.0.1: {"type":"identify","userId":"1","userName":"Usu√°rio Teste"}
+[2025-04-28 16:51:27] Mensagem de 172.19.0.1: È
+[2025-04-28 16:51:27] Cliente desconectado: 172.19.0.1
+[2025-04-28 16:51:27] Mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[2025-04-28 16:51:27] Cliente desconectado: 172.19.0.1
+[2025-04-28 16:51:28] Nova conex√£o de 172.19.0.1
+[2025-04-28 16:51:28] Nova conex√£o de 172.19.0.1
+[2025-04-28 16:51:28] Mensagem de 172.19.0.1: {"type":"identify","userId":"1","userName":"Usu√°rio Teste"}
+[2025-04-28 16:51:33] Nova conex√£o de 172.19.0.1
+[2025-04-28 16:51:33] Mensagem de 172.19.0.1: {"type":"identify","userId":"1","userName":"Usu√°rio Teste"}
+[2025-04-28 16:52:49] Mensagem de 172.19.0.1: 
+[2025-04-28 16:53:04] Nova conex√£o de 172.19.0.1
+[2025-04-28 16:53:04] Mensagem de 172.19.0.1: {"type":"identify","userId":"1","userName":"Usu√°rio Teste"}
+[2025-04-28 16:53:49] Cliente desconectado: 172.19.0.1
+[2025-04-28 16:53:54] Nova conex√£o de 172.19.0.1
+[2025-04-28 16:53:54] Mensagem de 172.19.0.1: {"type":"identify","userId":"1","userName":"Usu√°rio Teste"}
+[2025-04-28 16:57:32] Mensagem de 172.19.0.1: È
+[2025-04-28 16:57:32] Cliente desconectado: 172.19.0.1
+[2025-04-28 16:57:32] Mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[2025-04-28 16:57:32] Mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[2025-04-28 16:57:32] Mensagem de 172.19.0.1: ÍInvalid UTF-8 in text frame
+[2025-04-28 16:57:32] Cliente desconectado: 172.19.0.1
+[2025-04-28 16:57:32] Cliente desconectado: 172.19.0.1
+[2025-04-28 16:57:32] Cliente desconectado: 172.19.0.1

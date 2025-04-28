@@ -1,0 +1,149 @@
+[
+    {
+        "id": 1,
+        "content": "Bem-vindo ao chat!",
+        "sender_id": 0,
+        "sender_name": "Sistema",
+        "created_at": "2025-04-27T18:42:47.000Z"
+    },
+    {
+        "id": 2,
+        "content": "Envie uma mensagem para come\u00e7ar.",
+        "sender_id": 0,
+        "sender_name": "Sistema",
+        "created_at": "2025-04-27T18:42:47.000Z"
+    },
+    {
+        "id": 3,
+        "content": "ola",
+        "sender_id": 1,
+        "sender_name": "Voc\u00ea",
+        "created_at": "2025-04-27T18:42:55.000Z"
+    },
+    {
+        "id": 4,
+        "content": "oi",
+        "sender_id": 1,
+        "sender_name": "Voc\u00ea",
+        "created_at": "2025-04-27T18:43:08.000Z"
+    },
+    {
+        "id": 5,
+        "content": "como esta",
+        "sender_id": 1,
+        "sender_name": "Voc\u00ea",
+        "created_at": "2025-04-27T18:43:16.000Z"
+    },
+    {
+        "id": 6,
+        "content": "caraca ta funcionando",
+        "sender_id": 1,
+        "sender_name": "Voc\u00ea",
+        "created_at": "2025-04-27T18:43:39.000Z"
+    },
+    {
+        "id": 7,
+        "content": "pera",
+        "sender_id": 1,
+        "sender_name": "Voc\u00ea",
+        "created_at": "2025-04-27T18:44:00.000Z"
+    },
+    {
+        "id": 8,
+        "content": "teste",
+        "sender_id": 1,
+        "sender_name": "Voc\u00ea",
+        "created_at": "2025-04-27T18:44:23.000Z"
+    },
+    {
+        "id": 9,
+        "content": "ta bem deixa ver uma coisa",
+        "sender_id": 1,
+        "sender_name": "Voc\u00ea",
+        "created_at": "2025-04-27T18:44:41.000Z"
+    },
+    {
+        "id": 10,
+        "content": "uai",
+        "sender_id": 1,
+        "sender_name": "Voc\u00ea",
+        "created_at": "2025-04-27T18:45:11.000Z"
+    },
+    {
+        "id": 11,
+        "content": "os dois est\u00e3o como usu\u00e1rio teste",
+        "sender_id": 1,
+        "sender_name": "Voc\u00ea",
+        "created_at": "2025-04-27T18:45:45.000Z"
+    },
+    {
+        "id": 12,
+        "content": "teste",
+        "sender_id": 1,
+        "sender_name": "Voc\u00ea",
+        "created_at": "2025-04-27T18:46:41.000Z"
+    },
+    {
+        "id": 13,
+        "content": "novo teste",
+        "sender_id": 1,
+        "sender_name": "Voc\u00ea",
+        "created_at": "2025-04-27T18:58:22.000Z"
+    },
+    {
+        "id": 14,
+        "content": "oi",
+        "sender_id": "1",
+        "sender_name": "Usu\u00e1rio Teste",
+        "created_at": "2025-04-27T19:22:54.000Z"
+    },
+    {
+        "id": 15,
+        "content": "teste",
+        "sender_id": "1",
+        "sender_name": "Usu\u00e1rio Teste",
+        "created_at": "2025-04-27T19:23:28.000Z"
+    },
+    {
+        "id": 16,
+        "content": "testando navegador",
+        "sender_id": "1",
+        "sender_name": "Usu\u00e1rio Teste",
+        "created_at": "2025-04-27T19:31:51.000Z"
+    },
+    {
+        "id": 17,
+        "content": "teste",
+        "sender_id": "1",
+        "sender_name": "Usu\u00e1rio Teste",
+        "created_at": "2025-04-27T19:32:41.000Z"
+    },
+    {
+        "id": 18,
+        "content": "e",
+        "sender_id": "1",
+        "sender_name": "Usu\u00e1rio Teste",
+        "created_at": "2025-04-27T19:32:59.000Z"
+    },
+    {
+        "id": 19,
+        "content": "ue",
+        "sender_id": "1",
+        "sender_name": "Usu\u00e1rio Teste",
+        "created_at": "2025-04-27T19:33:16.000Z"
+    },
+    {
+        "id": 20,
+        "content": "ola",
+        "sender_id": "1",
+        "sender_name": "Usu\u00e1rio Teste",
+        "created_at": "2025-04-28T16:45:57.000Z"
+    },
+    {
+        "id": 21,
+        "content": "bom dia",
+        "sender_id": "1",
+        "sender_name": "Usu\u00e1rio Teste",
+        "created_at": "2025-04-28T16:51:15.000Z"
+    }
+]
