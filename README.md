@@ -21,6 +21,18 @@ Este projeto é uma aplicação de chat em tempo real desenvolvida como parte de
 - Notificações assíncronas
 - Indicador de usuários online
 
+## Usuários para Teste
+
+Por favor, utilize os seguintes usuários de teste para acessar a aplicação:
+
+| Nome | Email | Senha |
+|------|-------|-------|
+| Admin | admin@example.com | admin123 |
+| Maria Silva | maria@example.com | maria123 |
+| João Santos | joao@example.com | joao123 |
+
+> **Importante**: A aplicação funciona melhor com estes usuários pré-configurados. Novos usuários criados pela tela de registro podem apresentar problemas de sincronização com o chat e outras funcionalidades.
+
 ## Como executar o projeto
 
 ### Pré-requisitos
@@ -92,3 +104,4 @@ A aplicação segue uma arquitetura de microsserviços:
 ## Autor
 
 Lucas Sampaio Oliveira
+
