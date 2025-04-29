@@ -12,7 +12,17 @@ file_put_contents(__DIR__ . '/../logs/websocket.log', date('[Y-m-d H:i:s] ') . "
 // Configuração
 $host = '0.0.0.0';
 $port = 8081;
-
+// Conexão com o MySQL (ajustado para seu docker-compose)
+try {
+    $pdo = new PDO('mysql:host=chat-app-mysql;dbname=chat', 'chatuser', 'chatpass');
+    $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+    echo "Conexão com o banco de dados estabelecida.\n";
+    file_put_contents(__DIR__ . '/../logs/websocket.log', date('[Y-m-d H:i:s] ') . "Conexão com o banco de dados estabelecida.\n", FILE_APPEND);
+} catch (PDOException $e) {
+    echo "Erro ao conectar ao banco de dados: " . $e->getMessage() . "\n";
+    file_put_contents(__DIR__ . '/../logs/websocket.log', date('[Y-m-d H:i:s] ') . "Erro ao conectar ao banco de dados: " . $e->getMessage() . "\n", FILE_APPEND);
+    exit(1);
+}
 // Criar servidor socket
 $server = socket_create(AF_INET, SOCK_STREAM, SOL_TCP);
 if (!$server) {
@@ -95,9 +105,21 @@ while (true) {
             echo "Mensagem de $ip: $message\n";
             file_put_contents(__DIR__ . '/../logs/websocket.log', date('[Y-m-d H:i:s] ') . "Mensagem de $ip: $message\n", FILE_APPEND);
             
-            // Broadcast para todos os outros clientes
+            // Salvar mensagem no MySQL
+            $data = json_decode($message, true);
+            if ($data && isset($data['content'], $data['sender_id'], $data['sender_name'], $data['recipient_id'])) {
+                $stmt = $pdo->prepare("INSERT INTO messages (content, sender_id, sender_name, recipient_id, created_at) VALUES (?, ?, ?, ?, NOW())");
+                $stmt->execute([
+                    $data['content'],
+                    $data['sender_id'],
+                    $data['sender_name'],
+                    $data['recipient_id']
+                ]);
+            }
+            
+            // Broadcast para todos os clientes conectados (inclusive quem enviou)
             foreach ($clients as $send_socket) {
-                if ($send_socket !== $server && $send_socket !== $client) {
+                if ($send_socket !== $server) {
                     $encoded = encodeWebSocketMessage($message);
                     @socket_write($send_socket, $encoded, strlen($encoded));
                 }

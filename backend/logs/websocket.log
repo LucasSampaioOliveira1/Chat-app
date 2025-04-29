@@ -393,3 +393,393 @@
 [2025-04-28 16:57:32] Cliente desconectado: 172.19.0.1
 [2025-04-28 16:57:32] Cliente desconectado: 172.19.0.1
 [2025-04-28 16:57:32] Cliente desconectado: 172.19.0.1
+[2025-04-29 01:01:25] Iniciando servidor WebSocket...
+[2025-04-29 01:01:25] Servidor WebSocket rodando em 0.0.0.0:8081
+[2025-04-29 01:17:24] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 01:17:24] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1745889444113"}
+[2025-04-29 01:17:37] Mensagem de 172.19.0.1: é
+[2025-04-29 01:17:37] Cliente desconectado: 172.19.0.1
+[2025-04-29 01:17:37] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 01:17:37] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1745889444113"}
+[2025-04-29 01:17:40] Mensagem de 172.19.0.1: {"type":"message","content":"oi","user_id":"1745889444113","user_name":"Lucas","timestamp":1745889460848}
+[2025-04-29 01:17:44] Mensagem de 172.19.0.1: é
+[2025-04-29 01:17:44] Cliente desconectado: 172.19.0.1
+[2025-04-29 01:17:44] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 01:17:44] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1745889444113"}
+[2025-04-29 01:17:49] Mensagem de 172.19.0.1: {"type":"message","content":"oi","user_id":"1745889444113","user_name":"Lucas","timestamp":1745889469608}
+[2025-04-29 01:19:12] Mensagem de 172.19.0.1: é
+[2025-04-29 01:19:12] Cliente desconectado: 172.19.0.1
+[2025-04-29 01:20:07] Iniciando servidor WebSocket...
+[2025-04-29 01:20:07] Servidor WebSocket rodando em 0.0.0.0:8081
+[2025-04-29 01:25:55] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 01:25:55] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1745889954962"}
+[2025-04-29 01:25:59] Mensagem de 172.19.0.1: {"type":"message","content":"oi","user_id":"1745889954962","user_name":"Lucas","timestamp":1745889959692}
+[2025-04-29 01:26:09] Mensagem de 172.19.0.1: {"type":"message","content":"oi","user_id":"1745889954962","user_name":"Lucas","timestamp":1745889969457}
+[2025-04-29 01:30:56] Iniciando servidor WebSocket...
+[2025-04-29 01:30:56] Servidor WebSocket rodando em 0.0.0.0:8081
+[2025-04-29 01:30:57] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 01:30:57] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1745889954962"}
+[2025-04-29 01:31:34] Mensagem de 172.19.0.1: é
+[2025-04-29 01:31:34] Cliente desconectado: 172.19.0.1
+[2025-04-29 01:31:51] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 01:31:51] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1745890311232"}
+[2025-04-29 01:31:57] Mensagem de 172.19.0.1: {"type":"message","content":"oi","user_id":"1745890311232","user_name":"Lucas","timestamp":1745890317169}
+[2025-04-29 01:33:27] Mensagem de 172.19.0.1: é
+[2025-04-29 01:33:27] Cliente desconectado: 172.19.0.1
+[2025-04-29 01:33:28] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 01:33:28] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1745890311232"}
+[2025-04-29 01:34:15] Mensagem de 172.19.0.1: é
+[2025-04-29 01:34:15] Cliente desconectado: 172.19.0.1
+[2025-04-29 01:34:16] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 01:34:16] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1745890311232"}
+[2025-04-29 01:34:43] Mensagem de 172.19.0.1: é
+[2025-04-29 01:34:43] Cliente desconectado: 172.19.0.1
+[2025-04-29 01:34:44] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 01:34:44] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1745890311232"}
+[2025-04-29 01:35:04] Mensagem de 172.19.0.1: é
+[2025-04-29 01:35:04] Cliente desconectado: 172.19.0.1
+[2025-04-29 01:35:04] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 01:35:04] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1745890311232"}
+[2025-04-29 01:35:07] Mensagem de 172.19.0.1: 
+[2025-04-29 01:35:10] Cliente desconectado: 172.19.0.1
+[2025-04-29 01:35:35] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 01:35:35] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1745890535235"}
+[2025-04-29 01:35:41] Mensagem de 172.19.0.1: {"type":"message","content":"oi","user_id":"1745890535235","user_name":"Lucas","timestamp":1745890541159}
+[2025-04-29 01:38:03] Mensagem de 172.19.0.1: é
+[2025-04-29 01:38:03] Cliente desconectado: 172.19.0.1
+[2025-04-29 01:38:08] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 01:38:08] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1745890688901"}
+[2025-04-29 01:38:15] Mensagem de 172.19.0.1: {"type":"message","content":"oi","user_id":"1745890688901","user_name":"Lucas","timestamp":1745890695084}
+[2025-04-29 01:38:16] Mensagem de 172.19.0.1: é
+[2025-04-29 01:38:16] Cliente desconectado: 172.19.0.1
+[2025-04-29 01:38:16] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 01:38:17] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1745890688901"}PàSËğP"
+[2025-04-29 01:38:17] Cliente desconectado: 172.19.0.1
+[2025-04-29 01:38:17] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 01:38:17] Mensagem de 172.19.0.1: é
+[2025-04-29 01:38:17] Cliente desconectado: 172.19.0.1
+[2025-04-29 01:38:17] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 01:38:17] Mensagem de 172.19.0.1: é
+[2025-04-29 01:38:17] Cliente desconectado: 172.19.0.1
+[2025-04-29 01:38:17] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 01:38:17] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1745890688901"}şV}¬3~ï
+[2025-04-29 01:38:17] Cliente desconectado: 172.19.0.1
+[2025-04-29 01:38:17] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 01:38:17] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1745890688901"}
+[2025-04-29 01:44:45] Mensagem de 172.19.0.1: é
+[2025-04-29 01:44:45] Cliente desconectado: 172.19.0.1
+[2025-04-29 01:46:17] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 01:46:17] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1745891177644"}
+[2025-04-29 01:46:22] Mensagem de 172.19.0.1: {"type":"message","content":"oi","user_id":"1745891177644","user_name":"Lucas","timestamp":1745891182127}
+[2025-04-29 01:49:12] Mensagem de 172.19.0.1: é
+[2025-04-29 01:49:12] Cliente desconectado: 172.19.0.1
+[2025-04-29 01:50:24] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 01:50:24] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1"}
+[2025-04-29 01:50:31] Mensagem de 172.19.0.1: {"type":"message","sender_id":"1","sender_name":"Admin","recipient_id":"general","content":"Olaaa","created_at":"2025-04-29T01:50:31.557Z"}
+[2025-04-29 01:51:36] Mensagem de 172.19.0.1: é
+[2025-04-29 01:51:36] Cliente desconectado: 172.19.0.1
+[2025-04-29 01:51:37] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 01:51:37] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1"}
+[2025-04-29 01:51:51] Mensagem de 172.19.0.1: é
+[2025-04-29 01:51:51] Cliente desconectado: 172.19.0.1
+[2025-04-29 01:51:51] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 01:51:51] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1"}
+[2025-04-29 01:51:55] Mensagem de 172.19.0.1: {"type":"message","sender_id":"1","sender_name":"Admin","recipient_id":"general","content":"oi","created_at":"2025-04-29T01:51:55.484Z"}
+[2025-04-29 01:52:35] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 01:52:35] Mensagem de 172.19.0.1: {"type":"auth","user_id":"2"}
+[2025-04-29 01:52:46] Mensagem de 172.19.0.1: {"type":"message","sender_id":"2","sender_name":"Maria Silva","recipient_id":"general","content":"boa noite","created_at":"2025-04-29T01:52:46.356Z"}
+[2025-04-29 01:53:08] Mensagem de 172.19.0.1: {"type":"message","sender_id":"1","sender_name":"Admin","recipient_id":"general","content":"OlÃ¡ maria como estÃ¡ ?","created_at":"2025-04-29T01:53:08.934Z"}
+[2025-04-29 01:53:29] Mensagem de 172.19.0.1: {"type":"message","sender_id":"2","sender_name":"Maria Silva","recipient_id":"general","content":"estou bem e vocÃª ?","created_at":"2025-04-29T01:53:29.559Z"}
+[2025-04-29 01:54:11] Mensagem de 172.19.0.1: 
+[2025-04-29 01:54:36] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 01:54:36] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1"}
+[2025-04-29 01:54:40] Cliente desconectado: 172.19.0.1
+[2025-04-29 01:54:40] Mensagem de 172.19.0.1: é
+[2025-04-29 01:54:40] Cliente desconectado: 172.19.0.1
+[2025-04-29 01:54:40] Mensagem de 172.19.0.1: êInvalid UTF-8 in text frame
+[2025-04-29 01:54:40] Cliente desconectado: 172.19.0.1
+[2025-04-29 01:54:41] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 01:54:41] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1"}
+[2025-04-29 01:54:43] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 01:54:43] Mensagem de 172.19.0.1: {"type":"auth","user_id":"2"}
+[2025-04-29 01:54:46] Mensagem de 172.19.0.1: é
+[2025-04-29 01:54:46] Cliente desconectado: 172.19.0.1
+[2025-04-29 01:54:46] Mensagem de 172.19.0.1: êInvalid UTF-8 in text frame
+[2025-04-29 01:54:46] Cliente desconectado: 172.19.0.1
+[2025-04-29 01:54:46] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 01:54:46] Mensagem de 172.19.0.1: {"type":"auth","user_id":"2"}
+[2025-04-29 01:54:48] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 01:54:48] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1"}
+[2025-04-29 01:57:11] Mensagem de 172.19.0.1: é
+[2025-04-29 01:57:11] Mensagem de 172.19.0.1: é
+[2025-04-29 01:57:11] Cliente desconectado: 172.19.0.1
+[2025-04-29 01:57:11] Cliente desconectado: 172.19.0.1
+[2025-04-29 01:57:11] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 01:57:11] Mensagem de 172.19.0.1: {"type":"auth","user_id":"2"}
+[2025-04-29 01:57:12] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 01:57:12] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1"}
+[2025-04-29 01:57:53] Mensagem de 172.19.0.1: é
+[2025-04-29 01:57:53] Cliente desconectado: 172.19.0.1
+[2025-04-29 01:57:53] Mensagem de 172.19.0.1: êInvalid UTF-8 in text frame
+[2025-04-29 01:57:53] Cliente desconectado: 172.19.0.1
+[2025-04-29 01:57:55] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 01:57:55] Mensagem de 172.19.0.1: {"type":"auth","user_id":"2"}
+[2025-04-29 01:58:02] Mensagem de 172.19.0.1: 
+[2025-04-29 01:58:04] Cliente desconectado: 172.19.0.1
+[2025-04-29 01:58:30] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 01:58:30] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1"}
+[2025-04-29 01:59:12] Mensagem de 172.19.0.1: é
+[2025-04-29 01:59:12] Cliente desconectado: 172.19.0.1
+[2025-04-29 01:59:12] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 01:59:12] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1"}
+[2025-04-29 02:03:03] Iniciando servidor WebSocket...
+[2025-04-29 02:03:03] Servidor WebSocket rodando em 0.0.0.0:8081
+[2025-04-29 02:03:04] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 02:03:04] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1"}
+[2025-04-29 02:03:35] Mensagem de 172.19.0.1: é
+[2025-04-29 02:03:35] Cliente desconectado: 172.19.0.1
+[2025-04-29 02:04:09] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 02:04:09] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1"}
+[2025-04-29 02:04:48] Mensagem de 172.19.0.1: é
+[2025-04-29 02:04:48] Cliente desconectado: 172.19.0.1
+[2025-04-29 02:04:49] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 02:04:49] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1"}
+[2025-04-29 02:05:02] Mensagem de 172.19.0.1: é
+[2025-04-29 02:05:02] Cliente desconectado: 172.19.0.1
+[2025-04-29 02:05:02] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 02:05:02] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1"}
+[2025-04-29 02:05:05] Mensagem de 172.19.0.1: é
+[2025-04-29 02:05:05] Cliente desconectado: 172.19.0.1
+[2025-04-29 02:05:05] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 02:05:05] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1"}
+[2025-04-29 02:11:32] Mensagem de 172.19.0.1: é
+[2025-04-29 02:11:32] Cliente desconectado: 172.19.0.1
+[2025-04-29 02:11:55] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 02:11:55] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1"}
+[2025-04-29 02:12:12] Mensagem de 172.19.0.1: {"type":"message","sender_id":"","sender_name":"","recipient_id":"general","content":"oi","created_at":"2025-04-29T02:12:12.022Z"}
+[2025-04-29 02:12:40] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 02:12:40] Mensagem de 172.19.0.1: {"type":"auth","user_id":"2"}
+[2025-04-29 02:12:46] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 02:12:46] Mensagem de 172.19.0.1: é
+[2025-04-29 02:12:46] Cliente desconectado: 172.19.0.1
+[2025-04-29 02:12:46] Mensagem de 172.19.0.1: {"type":"auth","user_id":"2"}Z½‡˜:¾mÑTËæôSÙ§Ínûª Ôé¸NØÿìÛõùWØ
+[2025-04-29 02:12:46] Mensagem de 172.19.0.1: êInvalid UTF-8 in text frame
+[2025-04-29 02:12:46] Cliente desconectado: 172.19.0.1
+[2025-04-29 02:12:46] Cliente desconectado: 172.19.0.1
+[2025-04-29 02:12:56] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 02:12:56] Mensagem de 172.19.0.1: {"type":"auth","user_id":"2"}
+[2025-04-29 02:13:23] Mensagem de 172.19.0.1: {"type":"message","sender_id":"","sender_name":"","recipient_id":"general","content":"teste","created_at":"2025-04-29T02:13:23.813Z"}
+[2025-04-29 02:13:30] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 02:13:30] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1"}
+[2025-04-29 02:13:37] Mensagem de 172.19.0.1: {"type":"message","sender_id":"","sender_name":"","recipient_id":"general","content":"ue","created_at":"2025-04-29T02:13:37.494Z"}
+[2025-04-29 02:13:49] Mensagem de 172.19.0.1: {"type":"message","sender_id":"","sender_name":"","recipient_id":"general","content":"agora foi :?","created_at":"2025-04-29T02:13:49.213Z"}
+[2025-04-29 02:15:03] Mensagem de 172.19.0.1: é
+[2025-04-29 02:15:03] Cliente desconectado: 172.19.0.1
+[2025-04-29 02:15:03] Mensagem de 172.19.0.1: êInvalid UTF-8 in text frame
+[2025-04-29 02:15:03] Cliente desconectado: 172.19.0.1
+[2025-04-29 02:15:03] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 02:15:03] Mensagem de 172.19.0.1: {"type":"auth","user_id":"2"}
+[2025-04-29 02:15:07] Mensagem de 172.19.0.1: é
+[2025-04-29 02:15:07] Cliente desconectado: 172.19.0.1
+[2025-04-29 02:15:07] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 02:15:07] Mensagem de 172.19.0.1: {"type":"auth","user_id":"2"}
+[2025-04-29 02:15:13] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 02:15:13] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1"}
+[2025-04-29 02:15:17] Mensagem de 172.19.0.1: {"type":"message","sender_id":"","sender_name":"","recipient_id":"general","content":"oi","created_at":"2025-04-29T02:15:17.672Z"}
+[2025-04-29 02:16:32] Mensagem de 172.19.0.1: é
+[2025-04-29 02:16:32] Mensagem de 172.19.0.1: é
+[2025-04-29 02:16:32] Cliente desconectado: 172.19.0.1
+[2025-04-29 02:16:32] Cliente desconectado: 172.19.0.1
+[2025-04-29 02:16:32] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 02:16:33] Mensagem de 172.19.0.1: {"type":"auth","user_id":"2"}
+[2025-04-29 02:16:33] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 02:16:33] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1"}
+[2025-04-29 02:16:33] Mensagem de 172.19.0.1: é
+[2025-04-29 02:16:33] Mensagem de 172.19.0.1: é
+[2025-04-29 02:16:33] Cliente desconectado: 172.19.0.1
+[2025-04-29 02:16:33] Cliente desconectado: 172.19.0.1
+[2025-04-29 02:16:33] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 02:16:33] Mensagem de 172.19.0.1: {"type":"auth","user_id":"2"}
+[2025-04-29 02:16:34] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 02:16:34] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1"}
+[2025-04-29 02:17:10] Mensagem de 172.19.0.1: é
+[2025-04-29 02:17:10] Mensagem de 172.19.0.1: é
+[2025-04-29 02:17:10] Cliente desconectado: 172.19.0.1
+[2025-04-29 02:17:10] Cliente desconectado: 172.19.0.1
+[2025-04-29 02:17:11] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 02:17:11] Mensagem de 172.19.0.1: {"type":"auth","user_id":"2"}
+[2025-04-29 02:17:11] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 02:17:11] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1"}
+[2025-04-29 02:18:00] Mensagem de 172.19.0.1: {"type":"message","sender_id":"","sender_name":"","recipient_id":"general","content":"oi","created_at":"2025-04-29T02:18:00.017Z"}
+[2025-04-29 02:18:05] Mensagem de 172.19.0.1: {"type":"message","sender_id":"","sender_name":"","recipient_id":"general","content":"teste","created_at":"2025-04-29T02:18:05.441Z"}
+[2025-04-29 02:21:03] Mensagem de 172.19.0.1: é
+[2025-04-29 02:21:03] Mensagem de 172.19.0.1: é
+[2025-04-29 02:21:03] Cliente desconectado: 172.19.0.1
+[2025-04-29 02:21:03] Cliente desconectado: 172.19.0.1
+[2025-04-29 02:21:03] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 02:21:03] Mensagem de 172.19.0.1: {"type":"auth","user_id":"2"}
+[2025-04-29 02:21:04] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 02:21:04] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1"}
+[2025-04-29 02:22:32] Mensagem de 172.19.0.1: é
+[2025-04-29 02:22:32] Mensagem de 172.19.0.1: é
+[2025-04-29 02:22:32] Cliente desconectado: 172.19.0.1
+[2025-04-29 02:22:32] Cliente desconectado: 172.19.0.1
+[2025-04-29 02:22:32] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 02:22:32] Mensagem de 172.19.0.1: {"type":"auth","user_id":"2"}
+[2025-04-29 02:22:33] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 02:22:33] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1"}
+[2025-04-29 02:24:01] Iniciando servidor WebSocket...
+[2025-04-29 02:24:01] Servidor WebSocket rodando em 0.0.0.0:8081
+[2025-04-29 02:25:37] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 02:25:37] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1"}
+[2025-04-29 02:25:46] Mensagem de 172.19.0.1: {"type":"message","sender_id":"","sender_name":"","recipient_id":"general","content":"oi","created_at":"2025-04-29T02:25:46.586Z"}
+[2025-04-29 02:26:13] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 02:26:13] Mensagem de 172.19.0.1: {"type":"auth","user_id":"2"}
+[2025-04-29 02:26:17] Mensagem de 172.19.0.1: {"type":"message","sender_id":"","sender_name":"","recipient_id":"general","content":"teste","created_at":"2025-04-29T02:26:17.343Z"}
+[2025-04-29 02:26:29] Mensagem de 172.19.0.1: {"type":"message","sender_id":"","sender_name":"","content":"oi","created_at":"2025-04-29T02:26:29.218Z"}
+[2025-04-29 02:26:43] Mensagem de 172.19.0.1: {"type":"message","sender_id":"","sender_name":"","content":"oi","created_at":"2025-04-29T02:26:43.066Z"}
+[2025-04-29 02:26:52] Mensagem de 172.19.0.1: {"type":"message","sender_id":"","sender_name":"","content":"teste3","created_at":"2025-04-29T02:26:52.819Z"}
+[2025-04-29 02:27:03] Mensagem de 172.19.0.1: é
+[2025-04-29 02:27:03] Cliente desconectado: 172.19.0.1
+[2025-04-29 02:27:03] Mensagem de 172.19.0.1: êInvalid UTF-8 in text frame
+[2025-04-29 02:27:03] Cliente desconectado: 172.19.0.1
+[2025-04-29 02:27:04] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 02:27:04] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1"}
+[2025-04-29 02:29:41] Mensagem de 172.19.0.1: é
+[2025-04-29 02:29:41] Cliente desconectado: 172.19.0.1
+[2025-04-29 02:44:59] Iniciando servidor WebSocket...
+[2025-04-29 02:44:59] Erro ao conectar ao banco de dados: SQLSTATE[HY000] [1045] Access denied for user 'chatuser'@'172.19.0.10' (using password: YES)
+[2025-04-29 02:45:50] Iniciando servidor WebSocket...
+[2025-04-29 02:45:50] Erro ao conectar ao banco de dados: SQLSTATE[HY000] [2002] Connection refused
+[2025-04-29 02:48:24] Iniciando servidor WebSocket...
+[2025-04-29 02:48:24] Erro ao conectar ao banco de dados: SQLSTATE[HY000] [1045] Access denied for user 'chatuser'@'172.19.0.10' (using password: YES)
+[2025-04-29 02:48:56] Iniciando servidor WebSocket...
+[2025-04-29 02:48:56] Erro ao conectar ao banco de dados: SQLSTATE[HY000] [1045] Access denied for user 'chatuser'@'172.19.0.10' (using password: YES)
+[2025-04-29 02:57:02] Iniciando servidor WebSocket...
+[2025-04-29 02:57:02] ConexÃ£o com o banco de dados estabelecida.
+[2025-04-29 02:57:02] Servidor WebSocket rodando em 0.0.0.0:8081
+[2025-04-29 02:57:55] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 02:57:55] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1"}
+[2025-04-29 02:58:10] Mensagem de 172.19.0.1: é
+[2025-04-29 02:58:10] Cliente desconectado: 172.19.0.1
+[2025-04-29 02:58:10] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 02:58:10] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1"}
+[2025-04-29 02:58:40] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 02:58:40] Mensagem de 172.19.0.1: {"type":"auth","user_id":"2"}
+[2025-04-29 02:58:47] Mensagem de 172.19.0.1: {"type":"message","sender_id":"2","sender_name":"Maria Silva","recipient_id":"general","content":"boa noite","created_at":"2025-04-29T02:58:47.713Z"}
+[2025-04-29 02:59:00] Mensagem de 172.19.0.1: {"type":"message","sender_id":"1","sender_name":"Admin","recipient_id":"general","content":"ei Maria","created_at":"2025-04-29T02:59:00.573Z"}
+[2025-04-29 02:59:19] Mensagem de 172.19.0.1: é
+[2025-04-29 02:59:19] Cliente desconectado: 172.19.0.1
+[2025-04-29 02:59:19] Mensagem de 172.19.0.1: êInvalid UTF-8 in text frame
+[2025-04-29 02:59:19] Cliente desconectado: 172.19.0.1
+[2025-04-29 02:59:19] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 02:59:19] Mensagem de 172.19.0.1: {"type":"auth","user_id":"2"}
+[2025-04-29 02:59:25] Mensagem de 172.19.0.1: {"type":"message","sender_id":"2","sender_name":"Maria Silva","recipient_id":"general","content":"oi","created_at":"2025-04-29T02:59:25.719Z"}
+[2025-04-29 02:59:32] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 02:59:32] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1"}
+[2025-04-29 02:59:36] Mensagem de 172.19.0.1: {"type":"message","sender_id":"1","sender_name":"Admin","recipient_id":"general","content":"oi","created_at":"2025-04-29T02:59:36.059Z"}
+[2025-04-29 03:02:49] Mensagem de 172.19.0.1: é
+[2025-04-29 03:02:49] Cliente desconectado: 172.19.0.1
+[2025-04-29 03:02:49] Mensagem de 172.19.0.1: êInvalid UTF-8 in text frame
+[2025-04-29 03:02:49] Cliente desconectado: 172.19.0.1
+[2025-04-29 03:10:15] Iniciando servidor WebSocket...
+[2025-04-29 03:10:15] Erro ao conectar ao banco de dados: SQLSTATE[HY000] [2002] Connection refused
+[2025-04-29 03:11:24] Iniciando servidor WebSocket...
+[2025-04-29 03:11:24] ConexÃ£o com o banco de dados estabelecida.
+[2025-04-29 03:11:24] Servidor WebSocket rodando em 0.0.0.0:8081
+[2025-04-29 03:12:25] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 03:12:25] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1"}
+[2025-04-29 03:12:35] Mensagem de 172.19.0.1: {"type":"message","sender_id":"1","sender_name":"Admin","recipient_id":"general","content":"Olaaa","created_at":"2025-04-29T03:12:35.878Z"}
+[2025-04-29 03:13:01] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 03:13:01] Mensagem de 172.19.0.1: {"type":"auth","user_id":"2"}
+[2025-04-29 03:13:07] Mensagem de 172.19.0.1: {"type":"message","sender_id":"2","sender_name":"Maria Silva","recipient_id":"general","content":"agora foi :?","created_at":"2025-04-29T03:13:07.497Z"}
+[2025-04-29 03:13:18] Mensagem de 172.19.0.1: é
+[2025-04-29 03:13:18] Cliente desconectado: 172.19.0.1
+[2025-04-29 03:13:18] Mensagem de 172.19.0.1: êInvalid UTF-8 in text frame
+[2025-04-29 03:13:18] Cliente desconectado: 172.19.0.1
+[2025-04-29 03:13:19] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 03:13:19] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1"}
+[2025-04-29 03:13:21] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 03:13:21] Mensagem de 172.19.0.1: {"type":"auth","user_id":"2"}
+[2025-04-29 03:13:29] Mensagem de 172.19.0.1: {"type":"message","sender_id":"1","sender_name":"Admin","recipient_id":"general","content":"ei Maria","created_at":"2025-04-29T03:13:29.520Z"}
+[2025-04-29 03:19:18] Iniciando servidor WebSocket...
+[2025-04-29 03:19:18] Erro ao conectar ao banco de dados: SQLSTATE[HY000] [2002] Connection refused
+[2025-04-29 03:19:50] Iniciando servidor WebSocket...
+[2025-04-29 03:19:50] ConexÃ£o com o banco de dados estabelecida.
+[2025-04-29 03:19:50] Servidor WebSocket rodando em 0.0.0.0:8081
+[2025-04-29 03:20:43] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 03:20:43] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1"}
+[2025-04-29 03:20:51] Mensagem de 172.19.0.1: {"type":"message","sender_id":"1","sender_name":"Admin","content":"oi","created_at":"2025-04-29T03:20:51.548Z"}
+[2025-04-29 03:21:14] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 03:21:14] Mensagem de 172.19.0.1: {"type":"auth","user_id":"2"}
+[2025-04-29 03:21:21] Mensagem de 172.19.0.1: {"type":"message","sender_id":"2","sender_name":"Maria Silva","content":"teste","created_at":"2025-04-29T03:21:20.948Z"}
+[2025-04-29 03:21:34] Mensagem de 172.19.0.1: {"type":"message","sender_id":"2","sender_name":"Maria Silva","content":"ola boa noite","created_at":"2025-04-29T03:21:34.238Z"}
+[2025-04-29 03:21:40] Mensagem de 172.19.0.1: {"type":"message","sender_id":"1","sender_name":"Admin","content":"Oi Maria","created_at":"2025-04-29T03:21:40.320Z"}
+[2025-04-29 03:21:44] Mensagem de 172.19.0.1: é
+[2025-04-29 03:21:44] Cliente desconectado: 172.19.0.1
+[2025-04-29 03:21:44] Mensagem de 172.19.0.1: êInvalid UTF-8 in text frame
+[2025-04-29 03:21:44] Cliente desconectado: 172.19.0.1
+[2025-04-29 03:21:44] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 03:21:44] Mensagem de 172.19.0.1: {"type":"auth","user_id":"2"}
+[2025-04-29 03:21:47] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 03:21:47] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1"}
+[2025-04-29 03:21:55] Mensagem de 172.19.0.1: {"type":"message","sender_id":"2","sender_name":"Maria Silva","content":"oi ","created_at":"2025-04-29T03:21:55.405Z"}
+[2025-04-29 03:22:01] Mensagem de 172.19.0.1: {"type":"message","sender_id":"1","sender_name":"Admin","content":"teste","created_at":"2025-04-29T03:22:01.320Z"}
+[2025-04-29 03:30:28] Iniciando servidor WebSocket...
+[2025-04-29 03:30:28] Erro ao conectar ao banco de dados: SQLSTATE[HY000] [2002] Connection refused
+[2025-04-29 03:32:22] Iniciando servidor WebSocket...
+[2025-04-29 03:32:22] ConexÃ£o com o banco de dados estabelecida.
+[2025-04-29 03:32:22] Servidor WebSocket rodando em 0.0.0.0:8081
+[2025-04-29 03:33:07] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 03:33:07] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1"}
+[2025-04-29 03:33:43] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 03:33:44] Mensagem de 172.19.0.1: {"type":"auth","user_id":"2"}
+[2025-04-29 03:33:48] Mensagem de 172.19.0.1: {"type":"message","sender_id":"2","sender_name":"Maria Silva","recipient_id":"general","content":"oiii","created_at":"2025-04-29T03:33:48.078Z"}
+[2025-04-29 03:33:53] Mensagem de 172.19.0.1: {"type":"message","sender_id":"1","sender_name":"Admin","content":"e isso","created_at":"2025-04-29T03:33:53.640Z"}
+[2025-04-29 03:33:57] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 03:33:57] Mensagem de 172.19.0.1: é
+[2025-04-29 03:33:57] Cliente desconectado: 172.19.0.1
+[2025-04-29 03:33:57] Mensagem de 172.19.0.1: {"type":"auth","user_id":"2"}õ¾ùà´ú
+ÆÚãİÀÚà¿Í·”¯Àœ˜û”Ÿ’îÙœ
+[2025-04-29 03:33:57] Mensagem de 172.19.0.1: êInvalid UTF-8 in text frame
+[2025-04-29 03:33:57] Cliente desconectado: 172.19.0.1
+[2025-04-29 03:33:57] Cliente desconectado: 172.19.0.1
+[2025-04-29 03:34:02] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 03:34:02] Mensagem de 172.19.0.1: {"type":"auth","user_id":"2"}
+[2025-04-29 03:34:03] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 03:34:03] Mensagem de 172.19.0.1: é
+[2025-04-29 03:34:03] Cliente desconectado: 172.19.0.1
+[2025-04-29 03:34:03] Mensagem de 172.19.0.1: {"type":"auth","user_id":"2"}V„ÙEı+kvµ,y7Œ[:áetyù1xo­e{e¸(x
+[2025-04-29 03:34:03] Cliente desconectado: 172.19.0.1
+[2025-04-29 03:34:09] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 03:34:09] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1"}
+[2025-04-29 03:34:16] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 03:34:16] Mensagem de 172.19.0.1: {"type":"auth","user_id":"2"}
+[2025-04-29 03:34:23] Mensagem de 172.19.0.1: {"type":"message","sender_id":"1","sender_name":"Admin","recipient_id":"general","content":"oi","created_at":"2025-04-29T03:34:23.849Z"}
+[2025-04-29 03:37:53] Mensagem de 172.19.0.1: é
+[2025-04-29 03:37:53] Mensagem de 172.19.0.1: é
+[2025-04-29 03:37:53] Cliente desconectado: 172.19.0.1
+[2025-04-29 03:37:53] Cliente desconectado: 172.19.0.1
+[2025-04-29 03:37:53] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 03:37:53] Mensagem de 172.19.0.1: {"type":"auth","user_id":"2"}
+[2025-04-29 03:37:54] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 03:37:54] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1"}
+[2025-04-29 03:39:06] Mensagem de 172.19.0.1: é
+[2025-04-29 03:39:06] Mensagem de 172.19.0.1: é
+[2025-04-29 03:39:06] Cliente desconectado: 172.19.0.1
+[2025-04-29 03:39:06] Cliente desconectado: 172.19.0.1
+[2025-04-29 03:39:06] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 03:39:06] Mensagem de 172.19.0.1: {"type":"auth","user_id":"2"}
+[2025-04-29 03:39:07] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 03:39:07] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1"}
+[2025-04-29 03:42:59] Iniciando servidor WebSocket...
+[2025-04-29 03:42:59] ConexÃ£o com o banco de dados estabelecida.
+[2025-04-29 03:42:59] Servidor WebSocket rodando em 0.0.0.0:8081
+[2025-04-29 03:45:27] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 03:45:27] Mensagem de 172.19.0.1: {"type":"auth","user_id":"1"}
+[2025-04-29 03:46:10] Nova conexÃ£o de 172.19.0.1
+[2025-04-29 03:46:10] Mensagem de 172.19.0.1: {"type":"auth","user_id":"2"}
+[2025-04-29 03:46:45] Mensagem de 172.19.0.1: {"type":"message","sender_id":"1","sender_name":"Admin","recipient_id":"general","content":"boa noite a todos","created_at":"2025-04-29T03:46:45.727Z"}
+[2025-04-29 03:46:59] Mensagem de 172.19.0.1: {"type":"message","sender_id":"2","sender_name":"Maria Silva","recipient_id":"general","content":"e isso ","created_at":"2025-04-29T03:46:59.144Z"}
+[2025-04-29 03:47:17] Mensagem de 172.19.0.1: {"type":"message","sender_id":"1","sender_name":"Admin","recipient_id":"2","content":"OlÃ¡ maria como vocÃª estÃ¡ ?","created_at":"2025-04-29T03:47:17.632Z"}
+[2025-04-29 03:47:29] Mensagem de 172.19.0.1: {"type":"message","sender_id":"2","sender_name":"Maria Silva","recipient_id":"1","content":"estou bem e vocÃª ?","created_at":"2025-04-29T03:47:29.077Z"}

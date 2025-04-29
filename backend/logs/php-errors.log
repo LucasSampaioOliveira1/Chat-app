@@ -255,3 +255,306 @@ Stack trace:
 [28-Apr-2025 16:53:04 UTC] Dados de login recebidos: {"email":"lucas.sampaio1901@outlook.com","password":"123"}
 [28-Apr-2025 16:53:04 UTC] Requisição: GET /api/messages
 [28-Apr-2025 16:53:04 UTC] Retornando 21 mensagens
+[29-Apr-2025 01:57:11 UTC] Requisição: GET /api/messages
+[29-Apr-2025 01:57:11 UTC] Retornando 21 mensagens
+[29-Apr-2025 01:57:12 UTC] Requisição: GET /api/messages
+[29-Apr-2025 01:57:12 UTC] Retornando 21 mensagens
+[29-Apr-2025 01:58:30 UTC] Requisição: GET /api/messages
+[29-Apr-2025 01:58:30 UTC] Retornando 21 mensagens
+[29-Apr-2025 01:59:12 UTC] Requisição: GET /api/messages
+[29-Apr-2025 01:59:12 UTC] Retornando 21 mensagens
+[29-Apr-2025 02:04:09 UTC] Requisição: GET /api/messages
+[29-Apr-2025 02:04:09 UTC] Retornando 21 mensagens
+[29-Apr-2025 02:04:49 UTC] Requisição: GET /api/messages
+[29-Apr-2025 02:04:49 UTC] Retornando 21 mensagens
+[29-Apr-2025 02:05:02 UTC] Requisição: GET /api/messages
+[29-Apr-2025 02:05:02 UTC] Retornando 21 mensagens
+[29-Apr-2025 02:05:05 UTC] Requisição: GET /api/messages
+[29-Apr-2025 02:05:05 UTC] Retornando 21 mensagens
+[29-Apr-2025 02:07:34 UTC] Requisição: GET /api/messages
+[29-Apr-2025 02:07:34 UTC] Retornando 21 mensagens
+[29-Apr-2025 02:07:34 UTC] Requisição: GET /favicon.ico
+[29-Apr-2025 02:11:55 UTC] Requisição: GET /api/messages
+[29-Apr-2025 02:11:55 UTC] Retornando 21 mensagens
+[29-Apr-2025 02:12:40 UTC] Requisição: GET /api/messages
+[29-Apr-2025 02:12:40 UTC] Retornando 21 mensagens
+[29-Apr-2025 02:12:46 UTC] Requisição: GET /api/messages
+[29-Apr-2025 02:12:46 UTC] Retornando 21 mensagens
+[29-Apr-2025 02:12:56 UTC] Requisição: GET /api/messages
+[29-Apr-2025 02:12:56 UTC] Retornando 21 mensagens
+[29-Apr-2025 02:13:30 UTC] Requisição: GET /api/messages
+[29-Apr-2025 02:13:30 UTC] Retornando 21 mensagens
+[29-Apr-2025 02:15:03 UTC] Requisição: GET /api/messages
+[29-Apr-2025 02:15:03 UTC] Retornando 21 mensagens
+[29-Apr-2025 02:15:07 UTC] Requisição: GET /api/messages
+[29-Apr-2025 02:15:07 UTC] Retornando 21 mensagens
+[29-Apr-2025 02:15:13 UTC] Requisição: GET /api/messages
+[29-Apr-2025 02:15:13 UTC] Retornando 21 mensagens
+[29-Apr-2025 02:16:32 UTC] Requisição: GET /api/messages
+[29-Apr-2025 02:16:32 UTC] Retornando 21 mensagens
+[29-Apr-2025 02:16:33 UTC] Requisição: GET /api/messages
+[29-Apr-2025 02:16:33 UTC] Retornando 21 mensagens
+[29-Apr-2025 02:16:33 UTC] Requisição: GET /api/messages
+[29-Apr-2025 02:16:33 UTC] Retornando 21 mensagens
+[29-Apr-2025 02:16:34 UTC] Requisição: GET /api/messages
+[29-Apr-2025 02:16:34 UTC] Retornando 21 mensagens
+[29-Apr-2025 02:17:11 UTC] Requisição: GET /api/messages
+[29-Apr-2025 02:17:11 UTC] Retornando 21 mensagens
+[29-Apr-2025 02:17:11 UTC] Requisição: GET /api/messages
+[29-Apr-2025 02:17:11 UTC] Retornando 21 mensagens
+[29-Apr-2025 02:21:03 UTC] Requisição: GET /api/messages
+[29-Apr-2025 02:21:03 UTC] Retornando 21 mensagens
+[29-Apr-2025 02:21:04 UTC] Requisição: GET /api/messages
+[29-Apr-2025 02:21:04 UTC] Retornando 21 mensagens
+[29-Apr-2025 02:22:32 UTC] Requisição: GET /api/messages
+[29-Apr-2025 02:22:32 UTC] Retornando 21 mensagens
+[29-Apr-2025 02:22:33 UTC] Requisição: GET /api/messages
+[29-Apr-2025 02:22:33 UTC] Retornando 21 mensagens
+[29-Apr-2025 02:25:37 UTC] Requisição: GET /api/messages
+[29-Apr-2025 02:25:37 UTC] Retornando 21 mensagens
+[29-Apr-2025 02:26:13 UTC] Requisição: GET /api/messages
+[29-Apr-2025 02:26:13 UTC] Retornando 21 mensagens
+[29-Apr-2025 02:27:04 UTC] Requisição: GET /api/messages
+[29-Apr-2025 02:27:04 UTC] Retornando 21 mensagens
+[29-Apr-2025 02:46:31 UTC] Requisição: GET /api/messages
+[29-Apr-2025 02:46:31 UTC] Retornando 21 mensagens
+[29-Apr-2025 02:47:16 UTC] Requisição: GET /api/messages
+[29-Apr-2025 02:47:16 UTC] Retornando 21 mensagens
+[29-Apr-2025 02:57:55 UTC] Requisição: GET /api/messages
+[29-Apr-2025 02:57:55 UTC] Retornando 21 mensagens
+[29-Apr-2025 02:58:03 UTC] Requisição: GET /api/messages
+[29-Apr-2025 02:58:03 UTC] Retornando 21 mensagens
+[29-Apr-2025 02:58:04 UTC] Requisição: GET /api/messages
+[29-Apr-2025 02:58:04 UTC] Retornando 21 mensagens
+[29-Apr-2025 02:58:05 UTC] Requisição: GET /api/messages
+[29-Apr-2025 02:58:05 UTC] Retornando 21 mensagens
+[29-Apr-2025 02:58:05 UTC] Requisição: GET /api/messages
+[29-Apr-2025 02:58:05 UTC] Retornando 21 mensagens
+[29-Apr-2025 02:58:09 UTC] Requisição: GET /api/messages
+[29-Apr-2025 02:58:09 UTC] Retornando 21 mensagens
+[29-Apr-2025 02:58:10 UTC] Requisição: GET /api/messages
+[29-Apr-2025 02:58:10 UTC] Retornando 21 mensagens
+[29-Apr-2025 02:58:40 UTC] Requisição: GET /api/messages
+[29-Apr-2025 02:58:40 UTC] Retornando 21 mensagens
+[29-Apr-2025 02:59:14 UTC] Requisição: GET /api/messages
+[29-Apr-2025 02:59:14 UTC] Retornando 21 mensagens
+[29-Apr-2025 02:59:15 UTC] Requisição: GET /api/messages
+[29-Apr-2025 02:59:15 UTC] Retornando 21 mensagens
+[29-Apr-2025 02:59:16 UTC] Requisição: GET /api/messages
+[29-Apr-2025 02:59:16 UTC] Retornando 21 mensagens
+[29-Apr-2025 02:59:16 UTC] Requisição: GET /api/messages
+[29-Apr-2025 02:59:16 UTC] Retornando 21 mensagens
+[29-Apr-2025 02:59:17 UTC] Requisição: GET /api/messages
+[29-Apr-2025 02:59:17 UTC] Retornando 21 mensagens
+[29-Apr-2025 02:59:17 UTC] Requisição: GET /api/messages
+[29-Apr-2025 02:59:17 UTC] Retornando 21 mensagens
+[29-Apr-2025 02:59:18 UTC] Requisição: GET /api/messages
+[29-Apr-2025 02:59:18 UTC] Retornando 21 mensagens
+[29-Apr-2025 02:59:19 UTC] Requisição: GET /api/messages
+[29-Apr-2025 02:59:19 UTC] Retornando 21 mensagens
+[29-Apr-2025 02:59:32 UTC] Requisição: GET /api/messages
+[29-Apr-2025 02:59:32 UTC] Retornando 21 mensagens
+[29-Apr-2025 03:02:49 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:02:49 UTC] Retornando 21 mensagens
+[29-Apr-2025 03:12:25 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:12:25 UTC] Retornando 21 mensagens
+[29-Apr-2025 03:13:01 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:13:01 UTC] Retornando 21 mensagens
+[29-Apr-2025 03:13:15 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:13:15 UTC] Retornando 21 mensagens
+[29-Apr-2025 03:13:17 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:13:17 UTC] Retornando 21 mensagens
+[29-Apr-2025 03:13:17 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:13:17 UTC] Retornando 21 mensagens
+[29-Apr-2025 03:13:19 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:13:19 UTC] Retornando 21 mensagens
+[29-Apr-2025 03:13:21 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:13:21 UTC] Retornando 21 mensagens
+[29-Apr-2025 03:20:43 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:20:43 UTC] PHP Warning:  Undefined variable $pdo in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:20:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/html/public/index.php:74
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:20:46 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:20:46 UTC] PHP Warning:  Undefined variable $pdo in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:20:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/html/public/index.php:74
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:20:47 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:20:47 UTC] PHP Warning:  Undefined variable $pdo in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:20:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/html/public/index.php:74
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:20:48 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:20:48 UTC] PHP Warning:  Undefined variable $pdo in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:20:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/html/public/index.php:74
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:20:48 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:20:48 UTC] PHP Warning:  Undefined variable $pdo in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:20:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/html/public/index.php:74
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:20:48 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:20:48 UTC] PHP Warning:  Undefined variable $pdo in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:20:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/html/public/index.php:74
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:20:49 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:20:49 UTC] PHP Warning:  Undefined variable $pdo in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:20:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/html/public/index.php:74
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:21:14 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:21:14 UTC] PHP Warning:  Undefined variable $pdo in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:21:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/html/public/index.php:74
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:21:15 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:21:15 UTC] PHP Warning:  Undefined variable $pdo in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:21:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/html/public/index.php:74
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:21:16 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:21:16 UTC] PHP Warning:  Undefined variable $pdo in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:21:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/html/public/index.php:74
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:21:44 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:21:44 UTC] PHP Warning:  Undefined variable $pdo in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:21:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/html/public/index.php:74
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:21:47 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:21:47 UTC] PHP Warning:  Undefined variable $pdo in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:21:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/html/public/index.php:74
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:21:48 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:21:48 UTC] PHP Warning:  Undefined variable $pdo in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:21:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/html/public/index.php:74
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:21:51 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:21:51 UTC] PHP Warning:  Undefined variable $pdo in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:21:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/html/public/index.php:74
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:22:02 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:22:02 UTC] PHP Warning:  Undefined variable $pdo in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:22:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/html/public/index.php:74
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:22:03 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:22:03 UTC] PHP Warning:  Undefined variable $pdo in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:22:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/html/public/index.php:74
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:22:04 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:22:04 UTC] PHP Warning:  Undefined variable $pdo in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:22:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/html/public/index.php:74
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:22:05 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:22:05 UTC] PHP Warning:  Undefined variable $pdo in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:22:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/html/public/index.php:74
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:22:06 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:22:06 UTC] PHP Warning:  Undefined variable $pdo in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:22:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/html/public/index.php:74
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:22:06 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:22:06 UTC] PHP Warning:  Undefined variable $pdo in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:22:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/html/public/index.php:74
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:22:09 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:22:09 UTC] PHP Warning:  Undefined variable $pdo in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:22:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/html/public/index.php:74
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:22:10 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:22:10 UTC] PHP Warning:  Undefined variable $pdo in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:22:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/html/public/index.php:74
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:22:10 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:22:10 UTC] PHP Warning:  Undefined variable $pdo in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:22:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/html/public/index.php:74
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:22:10 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:22:10 UTC] PHP Warning:  Undefined variable $pdo in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:22:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/html/public/index.php:74
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:22:11 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:22:11 UTC] PHP Warning:  Undefined variable $pdo in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:22:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/html/public/index.php:74
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/public/index.php on line 74
+[29-Apr-2025 03:33:07 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:33:10 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:33:11 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:33:11 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:33:11 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:33:43 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:33:57 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:34:02 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:34:03 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:34:09 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:34:16 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:34:28 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:34:28 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:34:28 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:34:29 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:37:53 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:37:54 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:39:06 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:39:07 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:45:27 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:45:34 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:45:35 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:45:35 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:45:36 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:46:10 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:46:12 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:46:13 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:46:14 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:46:14 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:46:19 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:46:20 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:46:36 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:46:37 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:47:06 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:47:20 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:47:38 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:47:38 UTC] Requisição: GET /api/messages
+[29-Apr-2025 03:47:40 UTC] Requisição: GET /api/messages

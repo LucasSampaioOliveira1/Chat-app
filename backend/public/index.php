@@ -9,11 +9,11 @@ ini_set('error_log', __DIR__ . '/../logs/php-errors.log');
 error_reporting(E_ALL);
 
 // Configuração de CORS - adicionando cabeçalhos necessários
-header("Access-Control-Allow-Origin: http://localhost:4200");
-header("Access-Control-Allow-Methods: GET, POST, OPTIONS, PUT, DELETE");
-header("Access-Control-Allow-Headers: Content-Type, Authorization, X-Requested-With");
-header("Access-Control-Allow-Credentials: true");
-header("Content-Type: application/json");
+if (isset($_SERVER['HTTP_ORIGIN']) && preg_match('/^http:\/\/localhost:\d+$/', $_SERVER['HTTP_ORIGIN'])) {
+    header("Access-Control-Allow-Origin: {$_SERVER['HTTP_ORIGIN']}");
+} else {
+    header("Access-Control-Allow-Origin: *");
+}
 
 // Responder imediatamente para OPTIONS (preflight)
 if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') {
@@ -56,14 +56,77 @@ try {
         
         // Message routes
         case $uri === '/api/messages' && $method === 'GET':
-            $controller = new App\Controllers\MessageController();
-            $controller->getMessages();
-            break;
+            // Conexão com o banco de dados
+            try {
+                $pdo = new PDO('mysql:host=chat-app-mysql;dbname=chat', 'chatuser', 'chatpass');
+                $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+                
+                $recipient_id = $_GET['recipient_id'] ?? null;
+                $sender_id = $_GET['sender_id'] ?? null;
+
+                $sql = "SELECT * FROM messages";
+                $params = [];
+                
+                // Se temos recipient_id e sender_id, buscamos mensagens entre eles
+                if ($recipient_id && $sender_id) {
+                    if ($recipient_id === 'general') {
+                        // Para mensagens da sala geral
+                        $sql .= " WHERE recipient_id = 'general'";
+                    } else {
+                        // Para mensagens privadas entre dois usuários
+                        $sql .= " WHERE (sender_id = ? AND recipient_id = ?) OR (sender_id = ? AND recipient_id = ?)";
+                        $params = [$sender_id, $recipient_id, $recipient_id, $sender_id];
+                    }
+                }
+
+                $sql .= " ORDER BY created_at ASC";
+                $stmt = $pdo->prepare($sql);
+                $stmt->execute($params);
+                $messages = $stmt->fetchAll(PDO::FETCH_ASSOC);
+                
+                header('Content-Type: application/json');
+                echo json_encode($messages);
+            } catch (PDOException $e) {
+                error_log("Erro no banco de dados: " . $e->getMessage());
+                http_response_code(500);
+                echo json_encode(['error' => 'Erro ao buscar mensagens', 'details' => $e->getMessage()]);
+            }
+            exit;
         
         case $uri === '/api/messages' && $method === 'POST':
-            $controller = new App\Controllers\MessageController();
-            $controller->sendMessage();
-            break;
+            try {
+                $pdo = new PDO('mysql:host=chat-app-mysql;dbname=chat', 'chatuser', 'chatpass');
+                $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+                
+                $data = json_decode(file_get_contents('php://input'), true);
+                $content = $data['content'] ?? null;
+                $sender_id = $data['sender_id'] ?? null;
+                $sender_name = $data['sender_name'] ?? null;
+                $recipient_id = $data['recipient_id'] ?? 'general';
+
+                if (!$content || !$sender_id || !$sender_name) {
+                    http_response_code(400);
+                    echo json_encode(['error' => 'Dados incompletos']);
+                    exit;
+                }
+
+                $stmt = $pdo->prepare("INSERT INTO messages (content, sender_id, sender_name, recipient_id, created_at) VALUES (?, ?, ?, ?, NOW())");
+                $stmt->execute([$content, $sender_id, $sender_name, $recipient_id]);
+                
+                $lastId = $pdo->lastInsertId();
+                
+                // Busca a mensagem recém-inserida para retornar
+                $stmt = $pdo->prepare("SELECT * FROM messages WHERE id = ?");
+                $stmt->execute([$lastId]);
+                $message = $stmt->fetch(PDO::FETCH_ASSOC);
+                
+                echo json_encode(['status' => 'success', 'message' => $message]);
+            } catch (PDOException $e) {
+                error_log("Erro ao salvar mensagem: " . $e->getMessage());
+                http_response_code(500);
+                echo json_encode(['error' => 'Erro ao salvar mensagem', 'details' => $e->getMessage()]);
+            }
+            exit;
         
         // Default - rota de teste
         default:
